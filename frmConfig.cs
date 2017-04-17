@@ -27,45 +27,46 @@ namespace PrayerApp
 		private System.Windows.Forms.Label label1;
 		private System.Windows.Forms.Label label2;
 
-		#region variables
-		#region variables
+        #region variables
+        #region variables
         //private DataSet dsCities = new DataSet();
 
         //private int month = 0;
         //private int day = 0;
         //private int year = 0;
-        
+
         //private double lat = 0.0;
         //private double lng = 0.0;
-		//private int dtime = 0;
-		//		private int m_lat = 0; 
-		//		private int m_lng = 0; 
-		//		private int m_dtime = 0;      
+        //private int dtime = 0;
+        //		private int m_lat = 0; 
+        //		private int m_lng = 0; 
+        //		private int m_dtime = 0;      
 
-    
 
-		//private double r_to_d = 180 / Math.PI;      
-		//private double d_to_r = (Math.PI/180 ); 
-      
+
+        //private double r_to_d = 180 / Math.PI;      
+        //private double d_to_r = (Math.PI/180 ); 
+
         //private double convday = 4.16666666666667E-02;      
-		//		private double convhour = 6.66666666666667E-02;      
-		//		private double convmin = 1.66666666666667E-02;      
-		//		private double convsec = 2.77777777777778E-04;      
-		//private double convcircle = 2.77777777777778E-03;      
+        //		private double convhour = 6.66666666666667E-02;      
+        //		private double convmin = 1.66666666666667E-02;      
+        //		private double convsec = 2.77777777777778E-04;      
+        //private double convcircle = 2.77777777777778E-03;      
         //private double SUNSET = -.833333333333333;      
-		//		private double CIVIL = -6.0;      
-		//		private double NAUTICAL = -12.0;      
-		//		private double ASTRONOMICAL = -18.0;      
+        //		private double CIVIL = -6.0;      
+        //		private double NAUTICAL = -12.0;      
+        //		private double ASTRONOMICAL = -18.0;      
 
-		//		var X = 0,Y = 0; // Netscape bug 
+        //		var X = 0,Y = 0; // Netscape bug 
 
-		//private int  maxDay = 31;
+        //private int  maxDay = 31;
 
         //private double SunDia = 0.53;		// Sunradius degrees
         //private double AirRefr = 34.0/60.0; // athmospheric refraction degrees //
         #endregion
 
-        private Config config;
+//        private Config config;
+        private Object config;
         private PrayerTime prayer;
         private MainApp mainContainer;
         #endregion
@@ -87,7 +88,7 @@ namespace PrayerApp
         private TextBox txtTimerBySec;
         private Button button1;
         private Label label7;
-  
+
         //private string [] TimeZone = new string[] {
         //                                              "GMT-12",
         //                                              "GMT-11",              
@@ -114,15 +115,16 @@ namespace PrayerApp
         //                                              "GMT+10",              
         //                                              "GMT+11",              
         //                                              "GMT+12" };
-		#endregion
+        #endregion
 
 
-        public frmConfig(MainApp mainContainer, PrayerTime prayer, Config config)
-		{
-			//
-			// Required for Windows Form Designer support
-			//
-			InitializeComponent();
+//        public frmConfig(MainApp mainContainer, PrayerTime prayer, Config config)
+        public frmConfig(MainApp mainContainer, PrayerTime prayer, object config)
+        {
+            //
+            // Required for Windows Form Designer support
+            //
+            InitializeComponent();
 			//			this.tz.Items.Clear();
 			//			foreach (string str in TimeZone)
 			//				tz.Items.Add(str);
@@ -409,8 +411,8 @@ namespace PrayerApp
 		{
            // comboBox1.DataSource = prayer.Cities;
 			comboBox1.DisplayMember = "T_Cities.City_name";
-            comboBox1.Text = config.Read(mainContainer.ConfigName(enumConfig.CurrentCity));
-            txtTimerBySec.Text = config.Read(mainContainer.ConfigName(enumConfig.CurrentDelay));
+          //  comboBox1.Text = config.Read(mainContainer.ConfigName(enumConfig.CurrentCity));
+           // txtTimerBySec.Text = config.Read(mainContainer.ConfigName(enumConfig.CurrentDelay));
 
             #region
             //sqlConnection1.Open();
@@ -460,8 +462,8 @@ namespace PrayerApp
             //txtTwam.Text = prayer.TwilightBegin(); 
             //txtTwPm.Text = prayer.TwilightEnd();
             #endregion
-            config.Write(mainContainer.ConfigName(enumConfig.CurrentCity), this.comboBox1.Text);
-            config.Write(mainContainer.ConfigName(enumConfig.CurrentDelay), this.txtTimerBySec.Text);
+          //  config.Write(mainContainer.ConfigName(enumConfig.CurrentCity), this.comboBox1.Text);
+          //  config.Write(mainContainer.ConfigName(enumConfig.CurrentDelay), this.txtTimerBySec.Text);
         }
 
 
@@ -505,7 +507,8 @@ namespace PrayerApp
     {
         private NotifyIcon nfty = new NotifyIcon();
         private PrayerTime prayer = new PrayerTime();
-        private Config config;
+        //private Config config;
+        private object config;
         public MainApp()
         {
 
@@ -522,12 +525,12 @@ namespace PrayerApp
             this.nfty.ContextMenu = new ContextMenu();
             this.nfty.ContextMenu.MenuItems.Add("Options...", OnConfig);
             this.nfty.ContextMenu.MenuItems.Add("Exit", OnExit);
-            this.config = new Config(Directory.GetCurrentDirectory() + @"\Data.Dat");
-            City cty = prayer.GetCityByName(config.Read(ConfigName(enumConfig.CurrentCity)));
+            this.config = null;  //new Config(Directory.GetCurrentDirectory() + @"\Data.Dat");
+            City cty = null; // prayer.GetCityByName(config.Read(ConfigName(enumConfig.CurrentCity)));
             if (cty == null) return;
-            prayer.Init(cty, DateTime.Today.Year, DateTime.Today.Month, DateTime.Today.Day);
-            int delay = Convert.ToInt32(config.Read(ConfigName(enumConfig.CurrentDelay)));
-            prayer.SetTimer(delay*1000);
+         //   prayer.Init(cty, DateTime.Today.Year, DateTime.Today.Month, DateTime.Today.Day);
+          //  int delay = Convert.ToInt32(config.Read(ConfigName(enumConfig.CurrentDelay)));
+           // prayer.SetTimer(delay*1000);
         }
         public string ConfigName(enumConfig cfg)
         {

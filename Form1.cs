@@ -566,8 +566,9 @@ namespace PrayerApp
             Double longtitude = Double.Parse(txtLongitude.Text.ToString().Replace('.', ','), CultureInfo.CurrentCulture.NumberFormat); // Convert.ToDouble();
             Double Latitude = Double.Parse(txtLatitude.Text.ToString().Replace('.', ','), CultureInfo.CurrentCulture.NumberFormat);
 
-            City w = new City(comboBox1.Text.ToString(), longtitude, Latitude);
+            //City w = new City(comboBox1.Text.ToString(), longtitude, Latitude);
 
+            City w = new City();
 
             month = Convert.ToInt32(txtMon.Text);
             day = Convert.ToInt32(txtDay.Text);
@@ -933,8 +934,8 @@ namespace PrayerApp
 
             jd = Utils.mdy_jd(month, day, year, 0, 0, 0);
 
-            s = prayer.calcsun(jd, 0, 0, 0);      
-			r = Utils.rmstime(jd,lat,lng,dtime,s); //s.Longitude,s.Latitude);    
+            //s = prayer.calcsun(jd, 0, 0, 0);
+           // r = Utils.rmstime(jd,lat,lng,dtime,s); //s.Longitude,s.Latitude);    
   
 			sunrise1.Text = Utils.dt_hms(r.rise,1,0);
             suntransit.Text = Utils.dt_hms(r.transit, 1, 0);

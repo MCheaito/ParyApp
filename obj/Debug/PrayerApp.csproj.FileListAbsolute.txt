@@ -5,3 +5,4 @@ C:\Users\cheaito\Source\Repos\ParyApp\obj\Debug\PrayerApp.Form1.resources
 C:\Users\cheaito\Source\Repos\ParyApp\obj\Debug\PrayerApp.frmConfig.resources
 C:\Users\cheaito\Source\Repos\ParyApp\obj\Debug\PrayerApp.NotifyWindow.resources
 C:\Users\cheaito\Source\Repos\ParyApp\obj\Debug\PrayerApp.csproj.GenerateResource.Cache
+C:\Users\cheaito\Source\Repos\ParyApp\obj\Debug\PrayerApp.csprojResolveAssemblyReference.cache

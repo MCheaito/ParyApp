@@ -376,9 +376,9 @@ namespace PrayerApp
             if (img == null) return;
             if (Title != null)
             {
-                using (Graphics fx = CreateGraphics())
+                using (Graphics f = CreateGraphics())
                 {
-                    SizeF sz = fx.MeasureString(Title, TitleFont, ActualWidth - rClose.Width - 22, this.StringFormat);
+                    SizeF sz = f.MeasureString(Title, TitleFont, ActualWidth - rClose.Width - 22, this.StringFormat);
                     rTitle = new Rectangle(11, 12, (int)Math.Ceiling(sz.Width), (int)Math.Ceiling(sz.Height));
                     offset = (int)Math.Max(Math.Ceiling(sz.Height + rTitle.Top + 2), rClose.Bottom + 5);
                 }
