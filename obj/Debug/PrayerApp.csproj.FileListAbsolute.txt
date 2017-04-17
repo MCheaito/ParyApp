@@ -1,0 +1,11 @@
+C:\Users\Cheaito\project\PrayerApp\obj\Debug\PrayerApp.exe
+C:\Users\Cheaito\project\PrayerApp\obj\Debug\PrayerApp.pdb
+C:\Users\Cheaito\project\PrayerApp\bin\Debug\PrayerApp.exe
+C:\Users\Cheaito\project\PrayerApp\bin\Debug\PrayerApp.pdb
+C:\Users\Cheaito\project\PrayerApp\bin\Debug\Nour.Athan.lib.dll
+C:\Users\Cheaito\project\PrayerApp\bin\Debug\Nour.Athan.lib.pdb
+C:\Users\Cheaito\project\PrayerApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cheaito\project\PrayerApp\obj\Debug\PrayerApp.Form1.resources
+C:\Users\Cheaito\project\PrayerApp\obj\Debug\PrayerApp.csproj.GenerateResource.Cache
+C:\project\PrayerApp\obj\Debug\PrayerApp.exe
+C:\project\PrayerApp\obj\Debug\PrayerApp.pdb

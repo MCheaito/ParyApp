@@ -1,0 +1,3258 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <T_Cities>
+    <city_id>cb39353f-772b-4665-86ed-303255ea55bb</city_id>
+    <Country_name> Côte d'Ivoire   </Country_name>
+    <City_name>Abidjan                                           </City_name>
+    <City_Latitude>5.288</City_Latitude>
+    <City_Longitude>3.994</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>1c6e2927-a5a3-4a03-84ac-69f4a6185945</city_id>
+    <Country_name> United Arab Emirates</Country_name>
+    <City_name>Abu Dhabi                                         </City_name>
+    <City_Latitude>24.47</City_Latitude>
+    <City_Longitude>-54.373</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>05081962-85fd-4fb8-ba6c-f19f62a9345e</city_id>
+    <Country_name>Ghana</Country_name>
+    <City_name>Accra                                             </City_name>
+    <City_Latitude>5.544</City_Latitude>
+    <City_Longitude>.196</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>bf72ac15-bc52-4fee-8c9f-89da087f433c</city_id>
+    <Country_name>Ethiopia</Country_name>
+    <City_name>Addis Ababa                                       </City_name>
+    <City_Latitude>9.033</City_Latitude>
+    <City_Longitude>-38.7</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2b5b4260-28db-4f51-9210-fc8cb16e6d43</city_id>
+    <Country_name>Australia</Country_name>
+    <City_name>Adelaide                                          </City_name>
+    <City_Latitude>-34.867</City_Latitude>
+    <City_Longitude>-138.5</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>be7a0fa9-4a72-4150-8b17-fff3a7ed8226</city_id>
+    <Country_name>Yemen</Country_name>
+    <City_name>Aden                                              </City_name>
+    <City_Latitude>12.767</City_Latitude>
+    <City_Longitude>-45.017</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2d6b3af5-474e-40e2-b2ea-285e4417d485</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Albany-NY                                         </City_name>
+    <City_Latitude>42.653</City_Latitude>
+    <City_Longitude>73.757</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>41b59c5c-e990-4d27-a1f3-674673fdca61</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Albuquerque                                       </City_name>
+    <City_Latitude>35.084</City_Latitude>
+    <City_Longitude>106.65</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e66e29f7-fabe-427c-81ee-0a9b025de36c</city_id>
+    <Country_name>Algeria</Country_name>
+    <City_name>Algiers                                           </City_name>
+    <City_Latitude>36.745</City_Latitude>
+    <City_Longitude>-3.061</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a18c16e0-aa31-4716-bf31-cd34fde4a509</city_id>
+    <Country_name>Kazakhstan</Country_name>
+    <City_name>Alma-Ata                                          </City_name>
+    <City_Latitude>43.25</City_Latitude>
+    <City_Longitude>-76.95</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d4d0a97f-02b0-46fa-92bb-65a71fcc9988</city_id>
+    <Country_name>Niue</Country_name>
+    <City_name>Alofi                                             </City_name>
+    <City_Latitude>-19.063</City_Latitude>
+    <City_Longitude>169.926</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>fa28116b-0a2b-4d3b-ae64-83e13c35fba0</city_id>
+    <Country_name>Jordan</Country_name>
+    <City_name>Amman                                             </City_name>
+    <City_Latitude>31.963</City_Latitude>
+    <City_Longitude>-35.93</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8a069504-68c0-4cdb-994c-7810ad352c42</city_id>
+    <Country_name>Holland</Country_name>
+    <City_name>Amsterdam                                         </City_name>
+    <City_Latitude>52.383</City_Latitude>
+    <City_Longitude>-4.906</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8923251b-d9fb-4972-bb88-dcedff4daeb1</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Anchorage                                         </City_name>
+    <City_Latitude>61.217</City_Latitude>
+    <City_Longitude>149.883</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d0d78ba1-dc1a-434d-88d8-5464eda01108</city_id>
+    <Country_name>Turkey</Country_name>
+    <City_name>Ankara                                            </City_name>
+    <City_Latitude>39.955</City_Latitude>
+    <City_Longitude>-32.847</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>21bd92fc-bd44-4910-96cb-e79adaf77be6</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Annapolis-MD                                      </City_name>
+    <City_Latitude>38.978</City_Latitude>
+    <City_Longitude>76.492</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d6e0fed9-8183-4432-baa1-ad465d347dca</city_id>
+    <Country_name>Madagascar </Country_name>
+    <City_name>Antananarivo                                      </City_name>
+    <City_Latitude>-18.917</City_Latitude>
+    <City_Longitude>-47.517</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ae6f83e3-0deb-4b94-bf68-ad387286b53b</city_id>
+    <Country_name>Apia</Country_name>
+    <City_name>Apia                                              </City_name>
+    <City_Latitude>-13.86</City_Latitude>
+    <City_Longitude>171.742</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>41437b16-1b35-4092-8237-53f91ddac6a1</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Arctic Village                                    </City_name>
+    <City_Latitude>68.123</City_Latitude>
+    <City_Longitude>145.556</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>f191b96d-3813-4bdf-a6f6-719d26b5b398</city_id>
+    <Country_name>Ashkhabad</Country_name>
+    <City_name>Ashkhabad                                         </City_name>
+    <City_Latitude>37.95</City_Latitude>
+    <City_Longitude>-58.383</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>0f577493-8d41-4398-83e1-a8a4517db990</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Ashland-OR                                        </City_name>
+    <City_Latitude>42.207477</City_Latitude>
+    <City_Longitude>122.729875</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>61b8f01d-f466-4dd1-83b2-f13b999712e6</city_id>
+    <Country_name>Paraguay</Country_name>
+    <City_name>Asuncion                                          </City_name>
+    <City_Latitude>-25.27</City_Latitude>
+    <City_Longitude>57.64</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9792a715-d556-4e6f-993d-03fc57ed3276</city_id>
+    <Country_name>Greece</Country_name>
+    <City_name>Athens                                            </City_name>
+    <City_Latitude>37.972</City_Latitude>
+    <City_Longitude>-23.705</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>28134688-0208-4d4a-84c5-808c5ad79063</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Atlanta-GA                                        </City_name>
+    <City_Latitude>33.75</City_Latitude>
+    <City_Longitude>84.4</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>19b4c626-bdf7-4244-96bd-f6d0ffb2e86d</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Augusta-ME                                        </City_name>
+    <City_Latitude>44.319</City_Latitude>
+    <City_Longitude>69.762</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>00def626-0d12-402e-a745-bff5be7ab473</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Austin-TX                                         </City_name>
+    <City_Latitude>30.289</City_Latitude>
+    <City_Longitude>97.736</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8638e1aa-a55e-40f2-989f-7f3fb125b6e5</city_id>
+    <Country_name>Cook Islands</Country_name>
+    <City_name>Avarua                                            </City_name>
+    <City_Latitude>-21.2</City_Latitude>
+    <City_Longitude>159.783</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>f32b72e0-1ec8-4847-8968-ce265f7ab156</city_id>
+    <Country_name>Irak</Country_name>
+    <City_name>Baghdad                                           </City_name>
+    <City_Latitude>33.339</City_Latitude>
+    <City_Longitude>-44.403</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>dfdc5f38-821b-4cb4-b95b-1fb5928d6dc9</city_id>
+    <Country_name>Azerbaijan </Country_name>
+    <City_name>Baku                                              </City_name>
+    <City_Latitude>40.379</City_Latitude>
+    <City_Longitude>-49.869</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>09f32761-ce1b-4358-9516-b3c719a960fb</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Baltimore                                         </City_name>
+    <City_Latitude>39.29</City_Latitude>
+    <City_Longitude>76.613</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>1bec327b-4169-41b7-a1fe-2e60cb15887f</city_id>
+    <Country_name>Mali </Country_name>
+    <City_name>Bamako                                            </City_name>
+    <City_Latitude>12.65</City_Latitude>
+    <City_Longitude>8</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7f5790cb-d040-418e-b3cd-abde09fce7e6</city_id>
+    <Country_name>Brunei</Country_name>
+    <City_name>Bandar Seri Begawan                               </City_name>
+    <City_Latitude>4.939</City_Latitude>
+    <City_Longitude>-114.943</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>1ebf0416-499a-4218-81e8-427026bf2d00</city_id>
+    <Country_name>Thailand </Country_name>
+    <City_name>Bangkok                                           </City_name>
+    <City_Latitude>13.734</City_Latitude>
+    <City_Longitude>-100.529</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>f7af3799-ea4c-476a-a8eb-364577de7a93</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Bangor                                            </City_name>
+    <City_Latitude>44.794</City_Latitude>
+    <City_Longitude>68.768</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>813d1f49-e481-4da4-ad01-2391c1297d34</city_id>
+    <Country_name>Central African Republic</Country_name>
+    <City_name>Bangui                                            </City_name>
+    <City_Latitude>4.367</City_Latitude>
+    <City_Longitude>-18.583</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2f801704-b230-4f45-8130-0121ebe335d1</city_id>
+    <Country_name>Gambia</Country_name>
+    <City_name>Banjul                                            </City_name>
+    <City_Latitude>13.458</City_Latitude>
+    <City_Longitude>16.597</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b1412705-0eef-49c4-ac59-4f52bad56570</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Barrow                                            </City_name>
+    <City_Latitude>71.311</City_Latitude>
+    <City_Longitude>156.737</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>0b4846c0-9660-49e0-a5b8-092c8e4b5c5c</city_id>
+    <Country_name>Saint Kitts and Nevis</Country_name>
+    <City_name>Basseterre                                        </City_name>
+    <City_Latitude>17.298</City_Latitude>
+    <City_Longitude>62.739</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>5ab161e7-054b-41b3-b422-bfc436731bd7</city_id>
+    <Country_name>Guadeloupe </Country_name>
+    <City_name>Basse-Terre                                       </City_name>
+    <City_Latitude>16.012</City_Latitude>
+    <City_Longitude>61.723</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>0fe3a40d-4bc8-4467-b668-07f24bb2975a</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Baton Rouge-LA                                    </City_name>
+    <City_Latitude>30.451</City_Latitude>
+    <City_Longitude>91.154</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b421917d-6095-4a6e-bccb-eac59c713bec</city_id>
+    <Country_name>China </Country_name>
+    <City_name>Beijing                                           </City_name>
+    <City_Latitude>39.912</City_Latitude>
+    <City_Longitude>-116.379</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b2f0df02-b358-4e8c-921a-988477514eff</city_id>
+    <Country_name>Lebanon</Country_name>
+    <City_name>Beirut                                            </City_name>
+    <City_Latitude>33.887</City_Latitude>
+    <City_Longitude>-35.509</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>3271c9c6-11b9-40fd-aa60-dd83a195b492</city_id>
+    <Country_name>Serbia and Montenegro</Country_name>
+    <City_name>Belgrade                                          </City_name>
+    <City_Latitude>44.793</City_Latitude>
+    <City_Longitude>-20.465</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>19cc5c7c-0249-4a51-8950-e18031f436a5</city_id>
+    <Country_name>Belize </Country_name>
+    <City_name>Belmopan                                          </City_name>
+    <City_Latitude>17.267</City_Latitude>
+    <City_Longitude>88.782</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>1fd995f0-6871-4b79-aca5-031898255cc9</city_id>
+    <Country_name>Germany</Country_name>
+    <City_name>Berlin                                            </City_name>
+    <City_Latitude>52.484</City_Latitude>
+    <City_Longitude>-13.294</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>42d6c0a1-cc69-4d14-b8ab-44bea8ebcc2a</city_id>
+    <Country_name>Switzerland</Country_name>
+    <City_name>Bern                                              </City_name>
+    <City_Latitude>46.952</City_Latitude>
+    <City_Longitude>-7.444</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>658bcc05-d2c9-4c7b-b445-5c9d1665ba6a</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Bethel                                            </City_name>
+    <City_Latitude>60.795</City_Latitude>
+    <City_Longitude>161.769</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>653c2ff3-cf04-4d1c-8826-5ee93c38e493</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Bettels                                           </City_name>
+    <City_Latitude>66.921</City_Latitude>
+    <City_Longitude>151.549</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>22f15925-af5c-4bec-b6c1-2f98c38c99e8</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Birmingham                                        </City_name>
+    <City_Latitude>33.521</City_Latitude>
+    <City_Longitude>86.802</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a19f1b34-4547-4c3b-99c8-57ba484fe868</city_id>
+    <Country_name>Kyrgyzstan</Country_name>
+    <City_name>Bishkek                                           </City_name>
+    <City_Latitude>42.9</City_Latitude>
+    <City_Longitude>-74.6</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>305e2ec4-8a3e-4a81-a8b0-b1bbab36451c</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Bismarck-ND                                       </City_name>
+    <City_Latitude>46.808</City_Latitude>
+    <City_Longitude>100.783</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6d3fbe1e-cc99-433e-93e5-9d42aea9160d</city_id>
+    <Country_name>Kyrgyzstan </Country_name>
+    <City_name>Bissau                                            </City_name>
+    <City_Latitude>11.861</City_Latitude>
+    <City_Longitude>15.587</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>cacd4c9a-86c3-448a-bc43-303c18d0ca3f</city_id>
+    <Country_name>Colombia</Country_name>
+    <City_name>Bogota                                            </City_name>
+    <City_Latitude>4.6</City_Latitude>
+    <City_Longitude>74.083</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>1efda192-7f71-4d0a-be74-cf23d261a534</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Boise-ID                                          </City_name>
+    <City_Latitude>43.614</City_Latitude>
+    <City_Longitude>116.202</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6bad54f9-3aea-4c58-a422-e46638c7b897</city_id>
+    <Country_name>India</Country_name>
+    <City_name>Bombay                                            </City_name>
+    <City_Latitude>18.933</City_Latitude>
+    <City_Longitude>-72.85</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>1a38d0e3-4ef0-4a79-b219-634173f8b5ca</city_id>
+    <Country_name>Germany</Country_name>
+    <City_name>Bonn                                              </City_name>
+    <City_Latitude>50.731</City_Latitude>
+    <City_Longitude>-7.068</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>73809507-8bcf-46e4-896e-aab2dc2b8938</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Boston-MA                                         </City_name>
+    <City_Latitude>42.25</City_Latitude>
+    <City_Longitude>71.117</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>fdcc4010-0436-45e8-8b67-170e00a5c10d</city_id>
+    <Country_name>Brazil</Country_name>
+    <City_name>Brasilia                                          </City_name>
+    <City_Latitude>-15.783</City_Latitude>
+    <City_Longitude>47.917</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8634ee74-b86f-4e2f-afd5-5d93eccfae9a</city_id>
+    <Country_name>Slovakia</Country_name>
+    <City_name>Bratislava                                        </City_name>
+    <City_Latitude>48.148</City_Latitude>
+    <City_Longitude>-17.106</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8ffa9065-22ab-463a-abdc-e9da25d8b820</city_id>
+    <Country_name>Republic of the Congo</Country_name>
+    <City_name>Brazzaville                                       </City_name>
+    <City_Latitude>-4.15</City_Latitude>
+    <City_Longitude>-15.2</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ec6713cd-d504-4ac3-b29e-e584799f90c8</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Bridgeport                                        </City_name>
+    <City_Latitude>41.167</City_Latitude>
+    <City_Longitude>73.205</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e865247f-d509-46a9-963f-5a4184271787</city_id>
+    <Country_name>Barbados</Country_name>
+    <City_name>Bridgetown                                        </City_name>
+    <City_Latitude>13.118</City_Latitude>
+    <City_Longitude>59.615</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4a4c9847-4f45-4382-a871-cc9701317850</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Brownsville                                       </City_name>
+    <City_Latitude>25.913</City_Latitude>
+    <City_Longitude>97.484</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>76fb2088-09ab-498f-83e1-f550dc80e24d</city_id>
+    <Country_name>Belgium</Country_name>
+    <City_name>Brussels                                          </City_name>
+    <City_Latitude>50.857</City_Latitude>
+    <City_Longitude>-4.356</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>3c624e80-13f8-4ee3-83dc-150999e29c30</city_id>
+    <Country_name>Belgium</Country_name>
+    <City_name>Bruxelles                                         </City_name>
+    <City_Latitude>50.833</City_Latitude>
+    <City_Longitude>-4.35</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>bbf9b839-03c8-48e9-9a61-ef6ef694a429</city_id>
+    <Country_name>USA</Country_name>
+    <City_name>Bryan                                             </City_name>
+    <City_Latitude>30.667</City_Latitude>
+    <City_Longitude>96.45</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d387589f-5de2-4565-aaad-0a466f1ee952</city_id>
+    <Country_name>Romania</Country_name>
+    <City_name>Bucharest                                         </City_name>
+    <City_Latitude>44.438</City_Latitude>
+    <City_Longitude>-26.08</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6398fe1f-3c2d-4eee-9527-7ca5170fa13e</city_id>
+    <Country_name>Hungary</Country_name>
+    <City_name>Budapest                                          </City_name>
+    <City_Latitude>47.478</City_Latitude>
+    <City_Longitude>-19.106</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>746138b3-8276-4af6-af70-02fde9ca087f</city_id>
+    <Country_name>Argentina</Country_name>
+    <City_name>Buenos Aires                                      </City_name>
+    <City_Latitude>-34.6</City_Latitude>
+    <City_Longitude>58.45</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>61ebd372-6ac1-4942-9d48-15c008fd0df6</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Buffalo                                           </City_name>
+    <City_Latitude>42.942</City_Latitude>
+    <City_Longitude>78.829</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d23f3e05-eec0-4487-b8c6-d28599ab9eaf</city_id>
+    <Country_name>Burundi</Country_name>
+    <City_name>Bujumbura                                         </City_name>
+    <City_Latitude>-3.383</City_Latitude>
+    <City_Longitude>-29.367</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>28805a45-0143-4fd5-94ee-a78192fedc29</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Burlington                                        </City_name>
+    <City_Latitude>44.469</City_Latitude>
+    <City_Longitude>73.192</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ece3ff3b-9593-4dd6-a2a1-78d0c579e8eb</city_id>
+    <Country_name>Egypt</Country_name>
+    <City_name>Cairo                                             </City_name>
+    <City_Latitude>30.057</City_Latitude>
+    <City_Longitude>-31.236</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>3f5faa6a-ad25-4232-b02c-51b65e4cee2b</city_id>
+    <Country_name>India</Country_name>
+    <City_name>Calcutta                                          </City_name>
+    <City_Latitude>22.583</City_Latitude>
+    <City_Longitude>-88.35</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>bc232044-7459-43b5-a4e9-c34202e95fc5</city_id>
+    <Country_name>Canada</Country_name>
+    <City_name>Calgary                                           </City_name>
+    <City_Latitude>51.02</City_Latitude>
+    <City_Longitude>114.02</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e92a7e30-25ba-4ae0-9d98-a9dd4b134e90</city_id>
+    <Country_name>Australia</Country_name>
+    <City_name>Canberra                                          </City_name>
+    <City_Latitude>-35.311</City_Latitude>
+    <City_Longitude>-149.131</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>1e28cda9-4187-4ab4-86ce-21bfebb3cacf</city_id>
+    <Country_name>China</Country_name>
+    <City_name>Canton                                            </City_name>
+    <City_Latitude>23.083</City_Latitude>
+    <City_Longitude>-113.167</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>eeed516d-46ec-4a54-9528-e3323252f195</city_id>
+    <Country_name>South Africa</Country_name>
+    <City_name>Cape Town                                         </City_name>
+    <City_Latitude>-33.933</City_Latitude>
+    <City_Longitude>-18.367</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e59be4ec-76a7-4154-a7bc-9ae86fffc094</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Cape Yakatage                                     </City_name>
+    <City_Latitude>60.099</City_Latitude>
+    <City_Longitude>142.514</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e60ab4b1-115c-4b67-b7de-a19cfdf2865d</city_id>
+    <Country_name>Venezuela</Country_name>
+    <City_name>Caracas                                           </City_name>
+    <City_Latitude>10.5</City_Latitude>
+    <City_Longitude>66.933</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>230b9923-e7a9-4172-bcc7-be941d554665</city_id>
+    <Country_name>USA</Country_name>
+    <City_name>Cardiff                                           </City_name>
+    <City_Latitude>51.5</City_Latitude>
+    <City_Longitude>3.217</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>f129361e-6a49-4b78-b88b-7056ee3b1676</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Carson City-NV                                    </City_name>
+    <City_Latitude>39.167</City_Latitude>
+    <City_Longitude>119.767</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e4fc2c6c-a705-41f5-9d48-49556dbc86d8</city_id>
+    <Country_name>Saint Lucia</Country_name>
+    <City_name>Castries                                          </City_name>
+    <City_Latitude>14.017</City_Latitude>
+    <City_Longitude>61</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e5a88a92-f3c8-4313-982f-611893d43a32</city_id>
+    <Country_name>French Guiana</Country_name>
+    <City_name>Cayenne                                           </City_name>
+    <City_Latitude>4.936</City_Latitude>
+    <City_Longitude>52.335</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2ae11162-a1a4-4228-aa31-a80dc82727a1</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Charleston-WV                                     </City_name>
+    <City_Latitude>38.35</City_Latitude>
+    <City_Longitude>81.633</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9cd2f1d1-1abf-463d-8e68-70428e0d2eed</city_id>
+    <Country_name>Virgin Islands</Country_name>
+    <City_name>Charlotte Amalie                                  </City_name>
+    <City_Latitude>18.344</City_Latitude>
+    <City_Longitude>64.926</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b57f9d76-775e-4018-8f47-094269987a1d</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Cheyenne-WY                                       </City_name>
+    <City_Latitude>41.133</City_Latitude>
+    <City_Longitude>104.817</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d709773e-bda0-4e3b-800a-7712c085de78</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Chicago                                           </City_name>
+    <City_Latitude>41.85</City_Latitude>
+    <City_Longitude>87.65</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6f7f6807-14c8-48da-bf8e-10d7aefa8dbf</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Cincinnati                                        </City_name>
+    <City_Latitude>39.162</City_Latitude>
+    <City_Longitude>84.457</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8af369e9-dce6-4034-855e-c5ccb734cfd4</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Circle                                            </City_name>
+    <City_Latitude>65.835</City_Latitude>
+    <City_Longitude>144.062</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6ac4f73f-61cb-41df-b864-c1d0f1cc22a5</city_id>
+    <Country_name> Mexico </Country_name>
+    <City_name>Ciudad de Mexico                                  </City_name>
+    <City_Latitude>19.4</City_Latitude>
+    <City_Longitude>99.15</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>99837cff-518b-4418-b109-f38e5dc48527</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Cleveland                                         </City_name>
+    <City_Latitude>41.499</City_Latitude>
+    <City_Longitude>81.696</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>cae0102a-8c25-4125-b0aa-a2ab7dd25cf9</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Cold Bay                                          </City_name>
+    <City_Latitude>55.196</City_Latitude>
+    <City_Longitude>162.718</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2fc9627c-789b-4d1b-8769-b7bb8e7e4858</city_id>
+    <Country_name>Sri Lanka</Country_name>
+    <City_name>Colombo                                           </City_name>
+    <City_Latitude>6.938</City_Latitude>
+    <City_Longitude>-79.861</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9968ad70-20d7-453a-a642-0d68a16964a6</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Colorado Springs                                  </City_name>
+    <City_Latitude>38.834</City_Latitude>
+    <City_Longitude>104.821</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c559f251-e8e6-4342-b818-a81108d8e0f7</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Columbia-SC                                       </City_name>
+    <City_Latitude>34.001</City_Latitude>
+    <City_Longitude>81.035</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>0f802fb5-6375-465d-a110-f86e7451c018</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Columbus-GA                                       </City_name>
+    <City_Latitude>32.483</City_Latitude>
+    <City_Longitude>84.983</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7d6efa71-b45e-46b1-8d64-a4bc58f436e8</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Columbus-OH                                       </City_name>
+    <City_Latitude>39.961</City_Latitude>
+    <City_Longitude>82.999</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>bd584b9a-fe4f-435c-aaf5-2f030d08b229</city_id>
+    <Country_name>Guinea</Country_name>
+    <City_name>Conakry                                           </City_name>
+    <City_Latitude>9.515</City_Latitude>
+    <City_Longitude>13.718</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c7ad74cc-fe6a-479b-bc64-0400994c7074</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Concord-NH                                        </City_name>
+    <City_Latitude>43.208</City_Latitude>
+    <City_Longitude>71.538</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>93e61c2d-6046-47bb-8e29-307b6f2fa580</city_id>
+    <Country_name>Denmark</Country_name>
+    <City_name>Copenhagen                                        </City_name>
+    <City_Latitude>55.702</City_Latitude>
+    <City_Longitude>-12.584</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>f94cd348-4f5e-4a4a-96aa-0d766f11f016</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Cordova                                           </City_name>
+    <City_Latitude>60.514</City_Latitude>
+    <City_Longitude>145.776</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>1a1da0eb-6a5f-482f-8f90-1b56fa04db64</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Corpus Christi                                    </City_name>
+    <City_Latitude>27.745</City_Latitude>
+    <City_Longitude>97.402</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a15dc751-3c34-4bf8-9bfa-4686e9509eab</city_id>
+    <Country_name>USA</Country_name>
+    <City_name>Cupertino                                         </City_name>
+    <City_Latitude>37.35</City_Latitude>
+    <City_Longitude>121.95</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>756569a1-d1ab-4280-ac96-23fb4f8bd9db</city_id>
+    <Country_name>Bangladesh</Country_name>
+    <City_name>Dacca                                             </City_name>
+    <City_Latitude>23.7</City_Latitude>
+    <City_Longitude>-90.367</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a346e98b-0e61-4686-a97a-0d92d817ca0f</city_id>
+    <Country_name>Senegal</Country_name>
+    <City_name>Dakar                                             </City_name>
+    <City_Latitude>14.671</City_Latitude>
+    <City_Longitude>17.443</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>bd3a4ba3-a955-4a1c-988c-0aa69ca095c5</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Dallas                                            </City_name>
+    <City_Latitude>33.267</City_Latitude>
+    <City_Longitude>96.9</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e5873ff9-5a6f-433d-8ce1-9b22b2a72e05</city_id>
+    <Country_name>Syria</Country_name>
+    <City_name>Damascus                                          </City_name>
+    <City_Latitude>33.516</City_Latitude>
+    <City_Longitude>-36.304</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>1bd36e3c-53e4-40ae-a8a6-8db305e6afa1</city_id>
+    <Country_name>Tanzania</Country_name>
+    <City_name>Dar Es Salaam                                     </City_name>
+    <City_Latitude>-6.804</City_Latitude>
+    <City_Longitude>-39.28</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>32b0d07c-4b7c-48c5-aebc-8450aac35ae9</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Deering                                           </City_name>
+    <City_Latitude>66.066</City_Latitude>
+    <City_Longitude>162.749</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>429b8bae-3dc0-40a4-923a-83ed479f4efa</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Del Rio                                           </City_name>
+    <City_Latitude>29.355</City_Latitude>
+    <City_Longitude>100.896</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6256a381-99ef-462e-b8f0-8b05c9467ed4</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Delta Junction                                    </City_name>
+    <City_Latitude>64.017</City_Latitude>
+    <City_Longitude>145.653</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>41d85fb8-a3b4-472a-801f-ad86aeabbb3e</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Denver-CO                                         </City_name>
+    <City_Latitude>39.767</City_Latitude>
+    <City_Longitude>105</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6e39d923-9ed7-4f84-82a4-eb99d16850c4</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Des Moines-IA                                     </City_name>
+    <City_Latitude>41.601</City_Latitude>
+    <City_Longitude>93.609</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d926804d-36a2-4391-81f6-1eb9f865f3c2</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Detroit                                           </City_name>
+    <City_Latitude>42.383</City_Latitude>
+    <City_Longitude>83.083</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6ae2463b-4287-40cb-9879-6fb1a0dc4d55</city_id>
+    <Country_name>Bangladesh</Country_name>
+    <City_name>Dhaka                                             </City_name>
+    <City_Latitude>23.717</City_Latitude>
+    <City_Longitude>-90.417</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6f46a81e-a3db-4ab4-99ed-d7ebe0dcde82</city_id>
+    <Country_name>Indonisia     </Country_name>
+    <City_name>Djakarta                                          </City_name>
+    <City_Latitude>-6.133</City_Latitude>
+    <City_Longitude>-106.75</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c0fe7090-14a1-49cb-a03b-2251ef39f02e</city_id>
+    <Country_name>Djibouti</Country_name>
+    <City_name>Djibouti                                          </City_name>
+    <City_Latitude>11.6</City_Latitude>
+    <City_Longitude>-43.15</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>473f150d-7dc6-4bf6-b52b-5d728e4736e3</city_id>
+    <Country_name>Qatar</Country_name>
+    <City_name>Doha                                              </City_name>
+    <City_Latitude>25.269</City_Latitude>
+    <City_Longitude>-51.555</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>31516809-561b-418d-9134-284ec5176e42</city_id>
+    <Country_name>Cameroon</Country_name>
+    <City_name>Douala                                            </City_name>
+    <City_Latitude>4</City_Latitude>
+    <City_Longitude>-9.75</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2fd45105-50d9-4fb1-83c0-b3e588423433</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Dover-DE                                          </City_name>
+    <City_Latitude>39.158</City_Latitude>
+    <City_Longitude>75.525</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>161eb668-53c1-45ff-948d-e56dc4695a4a</city_id>
+    <Country_name>USA</Country_name>
+    <City_name>Doylestown                                        </City_name>
+    <City_Latitude>40.167</City_Latitude>
+    <City_Longitude>75.083</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a15effc7-cc14-4c14-8c8b-f684367ddc7c</city_id>
+    <Country_name>Ireland</Country_name>
+    <City_name>Dublin                                            </City_name>
+    <City_Latitude>53.354</City_Latitude>
+    <City_Longitude>6.243</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>bc243326-8f42-4d21-80ea-5a4efadbc856</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Duluth                                            </City_name>
+    <City_Latitude>46.763</City_Latitude>
+    <City_Longitude>92.131</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>68237d66-9a2a-4212-a00c-fe6a446fdb35</city_id>
+    <Country_name>Tajikistan</Country_name>
+    <City_name>Dushanbe                                          </City_name>
+    <City_Latitude>38.55</City_Latitude>
+    <City_Longitude>-68.8</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8cef674e-b278-4e86-a6ec-34ee451e68fe</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Eagle                                             </City_name>
+    <City_Latitude>64.804</City_Latitude>
+    <City_Longitude>141.215</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>cdd96127-0767-40bf-9163-0a2da46b4771</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Eagle Pass                                        </City_name>
+    <City_Latitude>28.724</City_Latitude>
+    <City_Longitude>100.479</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>0879980e-2279-47ca-8fef-61ff75d45ee4</city_id>
+    <Country_name>United Kingdom</Country_name>
+    <City_name>Edinburgh                                         </City_name>
+    <City_Latitude>55.95</City_Latitude>
+    <City_Longitude>3.217</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7e0dfb73-31a2-4e47-bd4c-9315cb5af02d</city_id>
+    <Country_name>Canada</Country_name>
+    <City_name>Edmonton                                          </City_name>
+    <City_Latitude>53.57</City_Latitude>
+    <City_Longitude>113.47</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>bb03f6e8-297e-47fc-aee2-633c68d7471f</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Egegik                                            </City_name>
+    <City_Latitude>58.189</City_Latitude>
+    <City_Longitude>157.376</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>961fa215-c5e2-4791-856d-b2828351000a</city_id>
+    <Country_name>Western Sahara</Country_name>
+    <City_name>El Aaiun                                          </City_name>
+    <City_Latitude>27.167</City_Latitude>
+    <City_Longitude>13.201</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8e04eaa8-52d9-490d-96d8-622a00734330</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>El Paso                                           </City_name>
+    <City_Latitude>31.792</City_Latitude>
+    <City_Longitude>106.435</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>3aa07dba-bad1-4011-9e5c-8e0289ccd2e1</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Elizabeth                                         </City_name>
+    <City_Latitude>40.664</City_Latitude>
+    <City_Longitude>74.211</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7b9700fb-be42-4c36-8283-0721b5338520</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Fairbanks                                         </City_name>
+    <City_Latitude>64.855</City_Latitude>
+    <City_Longitude>147.732</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b41ea17b-caaa-4436-bca6-6426382a2612</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>False Pass                                        </City_name>
+    <City_Latitude>54.795</City_Latitude>
+    <City_Longitude>163.389</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>910514bb-87e7-4d2f-9bd0-5ac2e7bb351b</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Flagstaff                                         </City_name>
+    <City_Latitude>35.198</City_Latitude>
+    <City_Longitude>111.65</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d9832dbb-7aac-4a4c-90f2-da55957be0f8</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Fort Yukon                                        </City_name>
+    <City_Latitude>66.594</City_Latitude>
+    <City_Longitude>145.478</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2c27dd0c-d361-49f1-8e41-a453309e274f</city_id>
+    <Country_name>Martinique</Country_name>
+    <City_name>Fort-de-France                                    </City_name>
+    <City_Latitude>14.609</City_Latitude>
+    <City_Longitude>61.053</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>25c3007c-43cc-4c1f-8057-d8541563c6c8</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Frankfort-KY                                      </City_name>
+    <City_Latitude>38.201</City_Latitude>
+    <City_Longitude>84.873</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2c7d1b53-086f-47c1-a66a-6a5586e050aa</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Frankfort-KY                                      </City_name>
+    <City_Latitude>38.201</City_Latitude>
+    <City_Longitude>84.873</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>3c0911ec-c067-4233-b45c-c7df7a2fcf5b</city_id>
+    <Country_name>Sierra Leone</Country_name>
+    <City_name>Freetown                                          </City_name>
+    <City_Latitude>8.485</City_Latitude>
+    <City_Longitude>13.218</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ccbe0bff-62a8-4f96-86a5-88d051c3bab0</city_id>
+    <Country_name>Tuvalu</Country_name>
+    <City_name>Funafuti                                          </City_name>
+    <City_Latitude>-8.524</City_Latitude>
+    <City_Longitude>-179.217</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>489c552e-1afd-45f1-913d-c44e1c885a7f</city_id>
+    <Country_name>Botswana</Country_name>
+    <City_name>Gaborone                                          </City_name>
+    <City_Latitude>-24.664</City_Latitude>
+    <City_Longitude>-25.907</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6ce444e4-713b-44df-b832-42377ee3c45e</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Galena                                            </City_name>
+    <City_Latitude>64.749</City_Latitude>
+    <City_Longitude>156.818</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>0b89627a-a62f-4874-bc99-2ed6b15fa3b8</city_id>
+    <Country_name>Switzerland</Country_name>
+    <City_name>Geneva                                            </City_name>
+    <City_Latitude>46.167</City_Latitude>
+    <City_Longitude>-6.15</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ee92b8a5-e836-43c4-b456-f9b31084bd48</city_id>
+    <Country_name>The Gambia</Country_name>
+    <City_name>Georgetown                                        </City_name>
+    <City_Latitude>6.8</City_Latitude>
+    <City_Longitude>58.167</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>bfe0a0b4-f71e-488f-858d-cc3ea1cd2cf1</city_id>
+    <Country_name>Nuuk</Country_name>
+    <City_name>Godthab                                           </City_name>
+    <City_Latitude>64.186</City_Latitude>
+    <City_Longitude>51.716</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>5a0cf39a-45fe-4ef0-b3de-9b22bfa7a077</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Golovim                                           </City_name>
+    <City_Latitude>64.566</City_Latitude>
+    <City_Longitude>163.024</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d2be927e-444e-404f-ae2e-7deeabbff46b</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Goodnews                                          </City_name>
+    <City_Latitude>59.125</City_Latitude>
+    <City_Longitude>161.591</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c7dc64f1-0b6b-4d0a-b0bb-b1b7772a330b</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Gordon                                            </City_name>
+    <City_Latitude>69.673</City_Latitude>
+    <City_Longitude>141.206</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>0094fcdd-de7a-4a43-be44-2b4985fb130d</city_id>
+    <Country_name>USA</Country_name>
+    <City_name>Grand Junction                                    </City_name>
+    <City_Latitude>39</City_Latitude>
+    <City_Longitude>108.5</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>1988b7b4-c00c-462a-b445-cd747cbff9db</city_id>
+    <Country_name>Turks and Caicos Islands</Country_name>
+    <City_name>Grand Turk                                        </City_name>
+    <City_Latitude>21.468</City_Latitude>
+    <City_Longitude>71.131</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>83970b4d-893c-40a1-9dba-5eb3bd526513</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Groton                                            </City_name>
+    <City_Latitude>41.35</City_Latitude>
+    <City_Longitude>72.079</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ff3d6460-395f-4111-8c03-947eab285d42</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Guam-GU                                           </City_name>
+    <City_Latitude>13.45</City_Latitude>
+    <City_Longitude>-144.75</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c244996e-e9bf-4d8f-9a95-12fef7f2a412</city_id>
+    <Country_name>China</Country_name>
+    <City_name>Guangzhou                                         </City_name>
+    <City_Latitude>23.083</City_Latitude>
+    <City_Longitude>-113.167</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9e0855c5-d84f-4e5e-ad19-6f9107a2d661</city_id>
+    <Country_name>Guatemala</Country_name>
+    <City_name>Guatemala                                         </City_name>
+    <City_Latitude>14.611</City_Latitude>
+    <City_Longitude>90.551</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>37e428d1-b0ed-4bc7-8507-f741296daa85</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Gulkana                                           </City_name>
+    <City_Latitude>62.309</City_Latitude>
+    <City_Longitude>145.282</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>035b3299-dd5a-49e1-bc31-23877b3d8dc7</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Haines                                            </City_name>
+    <City_Latitude>59.229</City_Latitude>
+    <City_Longitude>135.444</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9533aad1-9917-4f9f-adb1-1895054b1bfd</city_id>
+    <Country_name>Bermuda</Country_name>
+    <City_name>Hamilton                                          </City_name>
+    <City_Latitude>32.294</City_Latitude>
+    <City_Longitude>64.778</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e29bf8f0-9ffa-4223-afa1-dc5df0edb010</city_id>
+    <Country_name>Vietnam</Country_name>
+    <City_name>Hanoi                                             </City_name>
+    <City_Latitude>21.019</City_Latitude>
+    <City_Longitude>-105.848</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d66ca947-e3e4-4651-ac7b-b403b639d49c</city_id>
+    <Country_name>USA</Country_name>
+    <City_name>Hanover                                           </City_name>
+    <City_Latitude>43.717</City_Latitude>
+    <City_Longitude>72.283</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2ba72500-b684-4edf-aa9c-651c4e3a296c</city_id>
+    <Country_name>Zimbabwe</Country_name>
+    <City_name>Harare                                            </City_name>
+    <City_Latitude>-17.827</City_Latitude>
+    <City_Longitude>-31.053</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>27640008-3bc3-4e41-a08d-cd30bd582d3a</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Harrisburg-PA                                     </City_name>
+    <City_Latitude>40.274</City_Latitude>
+    <City_Longitude>76.885</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>443fd2ca-bc10-4a32-a376-ad40d83b50ac</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Hartford-CT                                       </City_name>
+    <City_Latitude>41.767</City_Latitude>
+    <City_Longitude>72.683</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c85f5331-9baf-4204-8701-b4d82dfa7184</city_id>
+    <Country_name>Cuba</Country_name>
+    <City_name>Havana                                            </City_name>
+    <City_Latitude>22.133</City_Latitude>
+    <City_Longitude>82.367</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>477ce70b-543c-46ea-98a5-8a7d86adfb04</city_id>
+    <Country_name>Cuba</Country_name>
+    <City_name>Havana                                            </City_name>
+    <City_Latitude>23.131</City_Latitude>
+    <City_Longitude>82.371</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2f1392af-b2f3-4a04-ad15-de7bc45daf53</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Helena-MT                                         </City_name>
+    <City_Latitude>46.593</City_Latitude>
+    <City_Longitude>112.035</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>cd38c5c1-ebab-451f-b7fb-1eeb496cd8c0</city_id>
+    <Country_name>Finland</Country_name>
+    <City_name>Helsingfors                                       </City_name>
+    <City_Latitude>60.167</City_Latitude>
+    <City_Longitude>-24.967</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c8daff96-0b68-4ee8-b6d4-97617d492dc0</city_id>
+    <Country_name>Finland</Country_name>
+    <City_name>Helsinki                                          </City_name>
+    <City_Latitude>60.167</City_Latitude>
+    <City_Longitude>-24.967</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c539e503-8c24-425b-bda8-e68a19cc40a4</city_id>
+    <Country_name>USA</Country_name>
+    <City_name>Highland Park                                     </City_name>
+    <City_Latitude>42.167</City_Latitude>
+    <City_Longitude>87.833</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c6f33081-df5a-4fb8-8a5c-ecf6c763b3fe</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Homer                                             </City_name>
+    <City_Latitude>59.658</City_Latitude>
+    <City_Longitude>151.489</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>bf21edc4-65a6-40a8-a195-df70a8e4436b</city_id>
+    <Country_name>Hong Kong</Country_name>
+    <City_name>Hong Kong                                         </City_name>
+    <City_Latitude>22.25</City_Latitude>
+    <City_Longitude>-114.167</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>885c58ad-22bd-4da1-89d1-b5c296ba7f8c</city_id>
+    <Country_name>Solomon Islands</Country_name>
+    <City_name>Honiara                                           </City_name>
+    <City_Latitude>-9.443</City_Latitude>
+    <City_Longitude>-159.989</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7ca4da65-2b27-41ab-9d62-79c546b7a280</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Honolulu-HI                                       </City_name>
+    <City_Latitude>21.348</City_Latitude>
+    <City_Longitude>157.861</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>68f364ba-9556-46f1-9d59-0dcc4e84046b</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Hooper Bay                                        </City_name>
+    <City_Latitude>61.528</City_Latitude>
+    <City_Longitude>166.109</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>16e27a81-ff32-46c3-beac-d276ec6d4bdb</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Houston                                           </City_name>
+    <City_Latitude>29.767</City_Latitude>
+    <City_Longitude>95.35</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7e97512c-e2c3-4021-a32f-16f5d2e7f23b</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Huntsville                                        </City_name>
+    <City_Latitude>34.73</City_Latitude>
+    <City_Longitude>86.586</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>415e577e-25b9-4ce9-9289-98f9ef63dce2</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Indianapolis-IN                                   </City_name>
+    <City_Latitude>39.768</City_Latitude>
+    <City_Longitude>86.158</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>71f34984-6a44-447e-adb4-738872cbeaeb</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>International Falls                               </City_name>
+    <City_Latitude>48.601</City_Latitude>
+    <City_Longitude>93.411</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ec2e93a6-467e-4550-b0df-0dd8ed4f08ff</city_id>
+    <Country_name>United Kingdom</Country_name>
+    <City_name>Inverness                                         </City_name>
+    <City_Latitude>57.483</City_Latitude>
+    <City_Longitude>4.2</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b751b9f2-9ee1-4879-b24d-57c26591bca2</city_id>
+    <Country_name>Pakistan</Country_name>
+    <City_name>Islamabad                                         </City_name>
+    <City_Latitude>33.71</City_Latitude>
+    <City_Longitude>-73.086</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>145b2bcf-7f74-4dab-9c04-bae327cbdd2a</city_id>
+    <Country_name>Turkey</Country_name>
+    <City_name>Istanbul                                          </City_name>
+    <City_Latitude>41.033</City_Latitude>
+    <City_Longitude>-28.983</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d3163c80-6a2f-4bec-92b2-227e3a64d923</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Jackson-MS                                        </City_name>
+    <City_Latitude>32.299</City_Latitude>
+    <City_Longitude>90.185</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>008194f4-2ee8-4bc8-b9e3-ab358aa1a43e</city_id>
+    <Country_name>Indonesia</Country_name>
+    <City_name>Jakarta                                           </City_name>
+    <City_Latitude>-6.167</City_Latitude>
+    <City_Longitude>-106.817</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d5d9e49b-e503-4be6-a128-0bcd7d4b9c6c</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Jefferson City-MO                                 </City_name>
+    <City_Latitude>38.577</City_Latitude>
+    <City_Longitude>92.173</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>893457c2-d1c0-4f7a-86a9-86796368bbfd</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Jersey City                                       </City_name>
+    <City_Latitude>40.728</City_Latitude>
+    <City_Longitude>74.078</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d1888896-7a7c-4f96-b948-fd8ca18df7c3</city_id>
+    <Country_name>Palestine</Country_name>
+    <City_name>Jerusalem                                         </City_name>
+    <City_Latitude>31.783</City_Latitude>
+    <City_Longitude>-35.233</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>19fb570e-9b98-48ca-a650-12682af2cdf0</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Juneau-AK                                         </City_name>
+    <City_Latitude>58.287</City_Latitude>
+    <City_Longitude>134.344</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ae0816c6-9f43-43b9-9a27-1ce433d77cc7</city_id>
+    <Country_name>Afghanistan</Country_name>
+    <City_name>Kabul                                             </City_name>
+    <City_Latitude>34.531</City_Latitude>
+    <City_Longitude>-69.162</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7a0cc539-1e0d-42e2-94f9-06652e82a46e</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Kaktovik                                          </City_name>
+    <City_Latitude>70.139</City_Latitude>
+    <City_Longitude>143.664</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2dfc6e03-c066-46c2-a72e-ef76c9a12d5c</city_id>
+    <Country_name>Uganda</Country_name>
+    <City_name>Kampala                                           </City_name>
+    <City_Latitude>.317</City_Latitude>
+    <City_Longitude>-32.583</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8232f8bd-c9b6-4a76-b089-7fb28c6495a9</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Kanakanak                                         </City_name>
+    <City_Latitude>58.986</City_Latitude>
+    <City_Longitude>158.579</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d71166d7-bae4-441a-a8b2-0245f99571e2</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Kansas City                                       </City_name>
+    <City_Latitude>39.1</City_Latitude>
+    <City_Longitude>94.65</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7b7a8e28-8c59-4745-874b-af35ad82f610</city_id>
+    <Country_name>Pakistan</Country_name>
+    <City_name>Karachi                                           </City_name>
+    <City_Latitude>24.85</City_Latitude>
+    <City_Longitude>-67.033</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>189caee0-9fc6-4830-94df-3b90427a9259</city_id>
+    <Country_name>Nepal</Country_name>
+    <City_name>Kathmandu                                         </City_name>
+    <City_Latitude>27.717</City_Latitude>
+    <City_Longitude>-85.317</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d4044152-ed05-43de-a071-104ba21811b7</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Ketchikan                                         </City_name>
+    <City_Latitude>55.356</City_Latitude>
+    <City_Longitude>131.643</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b5a0ce9c-a594-49df-9e0c-4cb0d6c8115d</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Key West                                          </City_name>
+    <City_Latitude>24.555</City_Latitude>
+    <City_Longitude>81.783</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>744781de-f976-495d-b60e-849ea8b0abc3</city_id>
+    <Country_name>Sudan</Country_name>
+    <City_name>Khartoum                                          </City_name>
+    <City_Latitude>15.6</City_Latitude>
+    <City_Longitude>-32.533</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>093eaa88-53b6-455d-9436-4a7f6581d656</city_id>
+    <Country_name>Ukraine</Country_name>
+    <City_name>Kiev                                              </City_name>
+    <City_Latitude>50.433</City_Latitude>
+    <City_Longitude>-30.517</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4d8b4b0a-9bd3-4009-a0ae-56545078f960</city_id>
+    <Country_name>Rwanda</Country_name>
+    <City_name>Kigali                                            </City_name>
+    <City_Latitude>-1.95</City_Latitude>
+    <City_Longitude>-30.067</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9e3b3f16-284e-4f6b-bdb8-bee9cec400f3</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>King Salmon                                       </City_name>
+    <City_Latitude>58.701</City_Latitude>
+    <City_Longitude>156.769</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>88ff49fc-46d5-4ee2-b2c6-8424eaf5aae9</city_id>
+    <Country_name>Jamaica</Country_name>
+    <City_name>Kingston                                          </City_name>
+    <City_Latitude>17.966</City_Latitude>
+    <City_Longitude>76.792</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b087b332-5804-4349-a9ff-209305c3d59a</city_id>
+    <Country_name>Canada</Country_name>
+    <City_name>Kingston                                          </City_name>
+    <City_Latitude>44.25</City_Latitude>
+    <City_Longitude>76.50</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>f6c3fb66-9694-4992-ac63-d44e655d99e6</city_id>
+    <Country_name>Saint Vincent and the Grenadines</Country_name>
+    <City_name>Kingstown                                         </City_name>
+    <City_Latitude>13.158</City_Latitude>
+    <City_Longitude>61.235</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b9ac0771-b885-49c6-ad30-888c2cd37ac3</city_id>
+    <Country_name>Democratic Republic ofthe Congo</Country_name>
+    <City_name>Kinshasa                                          </City_name>
+    <City_Latitude>-4.3</City_Latitude>
+    <City_Longitude>-15.3</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>02aa5517-e16e-4134-9a95-6a3c456089f4</city_id>
+    <Country_name>Moldova</Country_name>
+    <City_name>Kishinev                                          </City_name>
+    <City_Latitude>47</City_Latitude>
+    <City_Longitude>-28.833</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b4704026-13d8-4852-b07b-ae4ab7d72dac</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Kivalina                                          </City_name>
+    <City_Latitude>67.728</City_Latitude>
+    <City_Longitude>164.497</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ee8146e6-f85b-4abb-991f-cc816e36718e</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Knoxville                                         </City_name>
+    <City_Latitude>35.961</City_Latitude>
+    <City_Longitude>83.921</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>5326cd1c-f878-47f0-b525-3323c86b7814</city_id>
+    <Country_name>Denmark</Country_name>
+    <City_name>Kobenhavn                                         </City_name>
+    <City_Latitude>55.717</City_Latitude>
+    <City_Longitude>-12.567</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>be3f83f4-a669-4cf3-a3f9-cf5124ddd53a</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Kodiak                                            </City_name>
+    <City_Latitude>57.789</City_Latitude>
+    <City_Longitude>152.403</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2584de48-f0ca-43db-9fbb-34fd4803c939</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Kokruagarok                                       </City_name>
+    <City_Latitude>70.91</City_Latitude>
+    <City_Longitude>153.195</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9d12231a-6fd2-436c-98b5-95340ee76468</city_id>
+    <Country_name>Federated States of Micronesia</Country_name>
+    <City_name>Kolonia                                           </City_name>
+    <City_Latitude>6.967</City_Latitude>
+    <City_Longitude>-158.217</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>314e2554-1be9-4fe7-b56c-b2585cf2b6bf</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Kotzebue                                          </City_name>
+    <City_Latitude>66.878</City_Latitude>
+    <City_Longitude>162.621</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>824ba15a-98c9-44a5-a1c0-2fa78cde36a9</city_id>
+    <Country_name>Malaysia</Country_name>
+    <City_name>Kuala Lumpur                                      </City_name>
+    <City_Latitude>3.166</City_Latitude>
+    <City_Longitude>-101.69</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6cd179fd-2bf8-4ca4-b22c-a7af862c02e1</city_id>
+    <Country_name>Kuwait                                            </Country_name>
+    <City_name>Kuwait                                            </City_name>
+    <City_Latitude>29.372</City_Latitude>
+    <City_Longitude>-47.973</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>3a0623b1-8422-4bff-baa8-70ee0b7d5527</city_id>
+    <Country_name>Bolivia</Country_name>
+    <City_name>La Paz                                            </City_name>
+    <City_Latitude>-16.5</City_Latitude>
+    <City_Longitude>68.15</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>cff76b73-a84a-4e6a-8afe-a07e4e5d121f</city_id>
+    <Country_name>Nigeria</Country_name>
+    <City_name>Lagos                                             </City_name>
+    <City_Latitude>6.435</City_Latitude>
+    <City_Longitude>-3.416</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>50cb0759-240e-476b-901f-aca40850f697</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Lansing-MI                                        </City_name>
+    <City_Latitude>42.732</City_Latitude>
+    <City_Longitude>84.556</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>fee7f668-e361-42c3-9b4f-dd77e7717688</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Lansing-MI                                        </City_name>
+    <City_Latitude>42.732</City_Latitude>
+    <City_Longitude>84.556</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>cd8e7cf8-97b8-44de-820c-5561773e19e2</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Laredo                                            </City_name>
+    <City_Latitude>27.516</City_Latitude>
+    <City_Longitude>99.482</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>02760cbb-93de-40e5-85fe-cc78d58cec99</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Las Vegas                                         </City_name>
+    <City_Latitude>36.175</City_Latitude>
+    <City_Longitude>115.136</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>36d5b688-3046-471e-a3e8-6f1cb26262c3</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Latouche                                          </City_name>
+    <City_Latitude>60.059</City_Latitude>
+    <City_Longitude>147.874</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9e19961d-95b8-4877-a691-22148c5de9c4</city_id>
+    <Country_name>Russia</Country_name>
+    <City_name>Leningrad                                         </City_name>
+    <City_Latitude>59.917</City_Latitude>
+    <City_Longitude>-30.25</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b13d1f61-ca2a-40c0-a20e-fa9625e634dc</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Lexington                                         </City_name>
+    <City_Latitude>38.049</City_Latitude>
+    <City_Longitude>84.5</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7903208c-f300-4bfe-bafb-7dcc2145e500</city_id>
+    <Country_name>Gabon</Country_name>
+    <City_name>Libreville                                        </City_name>
+    <City_Latitude>.4</City_Latitude>
+    <City_Longitude>-9.456</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a34586ed-a11e-43a3-bfaa-4473cf875f74</city_id>
+    <Country_name>Malawi</Country_name>
+    <City_name>Lilongwe                                          </City_name>
+    <City_Latitude>-13.983</City_Latitude>
+    <City_Longitude>-33.767</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a1fa5ea3-698a-4aba-897c-2d01019180cb</city_id>
+    <Country_name>Peru</Country_name>
+    <City_name>Lima                                              </City_name>
+    <City_Latitude>-12.05</City_Latitude>
+    <City_Longitude>77.05</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>183fd35a-baae-48a9-a099-b9df2854361a</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Lincoln-NE                                        </City_name>
+    <City_Latitude>40.8</City_Latitude>
+    <City_Longitude>96.667</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8230576e-4a1c-45fd-ac07-d9b0292cfeb3</city_id>
+    <Country_name>Portugal </Country_name>
+    <City_name>Lisboa                                            </City_name>
+    <City_Latitude>38.733</City_Latitude>
+    <City_Longitude>9.133</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>15e085a0-7c36-469c-b170-7f5863a811cd</city_id>
+    <Country_name>Portugal</Country_name>
+    <City_name>Lisbon                                            </City_name>
+    <City_Latitude>38.722</City_Latitude>
+    <City_Longitude>9.193</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7de08ef2-ef5b-4299-9c20-51593accbfdd</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Little Rock-AR                                    </City_name>
+    <City_Latitude>34.746</City_Latitude>
+    <City_Longitude>92.289</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2cc923d9-60de-4d1d-b34a-e03d331b48cf</city_id>
+    <Country_name>Slovenia</Country_name>
+    <City_name>Ljubljana                                         </City_name>
+    <City_Latitude>46.061</City_Latitude>
+    <City_Longitude>-14.512</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7b6285a4-77f5-44bb-b90f-62742ad22725</city_id>
+    <Country_name>Togo</Country_name>
+    <City_name>Lome                                              </City_name>
+    <City_Latitude>6.126</City_Latitude>
+    <City_Longitude>-1.238</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>efdba118-36ed-4a66-8e6e-3cb5543959dd</city_id>
+    <Country_name>United Kingdom</Country_name>
+    <City_name>London                                            </City_name>
+    <City_Latitude>51.512</City_Latitude>
+    <City_Longitude>.065</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>fa3e333e-9221-4b5f-92ed-ac33c07da2ee</city_id>
+    <Country_name>Canada</Country_name>
+    <City_name>London                                            </City_name>
+    <City_Latitude>43.03</City_Latitude>
+    <City_Longitude>81.57</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ce8a0826-1d46-43fa-a2f8-b6b936ef78f8</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Los Angeles                                       </City_name>
+    <City_Latitude>34.05</City_Latitude>
+    <City_Longitude>118.25</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c4f711a3-30a1-454c-a2dd-e7c55c024d41</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Louisville                                        </City_name>
+    <City_Latitude>38.254</City_Latitude>
+    <City_Longitude>85.759</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c54da54a-662d-4cfd-9ac4-a29b747a8970</city_id>
+    <Country_name>Angola</Country_name>
+    <City_name>Luanda                                            </City_name>
+    <City_Latitude>-8.804</City_Latitude>
+    <City_Longitude>-13.237</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e59027fd-8549-4313-936f-914deaf8d9fb</city_id>
+    <Country_name>Zambia</Country_name>
+    <City_name>Lusaka                                            </City_name>
+    <City_Latitude>-7.149</City_Latitude>
+    <City_Longitude>-29.451</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>56da3e11-f8f8-4502-9ad2-a747b98665ca</city_id>
+    <Country_name>Luxembourg</Country_name>
+    <City_name>Luxembourg                                        </City_name>
+    <City_Latitude>49.603</City_Latitude>
+    <City_Longitude>-6.13</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e136e337-afa0-4ca7-b63d-a99d01827e65</city_id>
+    <Country_name>Macau</Country_name>
+    <City_name>Macao                                             </City_name>
+    <City_Latitude>22.182</City_Latitude>
+    <City_Longitude>-113.549</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>51ac67b2-8a7b-4c9d-ac2a-95d219f9f67c</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Madison-WI                                        </City_name>
+    <City_Latitude>43.073</City_Latitude>
+    <City_Longitude>89.401</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>88acf6f8-107e-4a3c-992b-a9201d6bc407</city_id>
+    <Country_name>India</Country_name>
+    <City_name>Madras                                            </City_name>
+    <City_Latitude>13.133</City_Latitude>
+    <City_Longitude>-80.317</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>cd88ff08-968f-49f6-846d-41c8e329b0f1</city_id>
+    <Country_name>Spain</Country_name>
+    <City_name>Madrid                                            </City_name>
+    <City_Latitude>40.424</City_Latitude>
+    <City_Longitude>3.709</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6b7a8b2d-8fa6-4e46-a25d-0550b50b650f</city_id>
+    <Country_name>USA</Country_name>
+    <City_name>Magnolia                                          </City_name>
+    <City_Latitude>33.333</City_Latitude>
+    <City_Longitude>93.333</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>acb305b0-5c25-4b5e-ab76-e50deb340f0e</city_id>
+    <Country_name>Marshall Islands</Country_name>
+    <City_name>Majuro                                            </City_name>
+    <City_Latitude>7.08</City_Latitude>
+    <City_Longitude>-171.277</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e1ff6fe1-e527-49a7-aa61-a1f32ceeb51f</city_id>
+    <Country_name>Equatorial Guinea</Country_name>
+    <City_name>Malabo                                            </City_name>
+    <City_Latitude>3.738</City_Latitude>
+    <City_Longitude>-8.786</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>09a1c491-f4b7-4e3f-a561-01aa6f9b1ca0</city_id>
+    <Country_name>Maldives</Country_name>
+    <City_name>Male                                              </City_name>
+    <City_Latitude>4.176</City_Latitude>
+    <City_Longitude>-73.504</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>42156daa-74f2-4474-b73b-858645b3cd0f</city_id>
+    <Country_name>Nicaragua</Country_name>
+    <City_name>Managua                                           </City_name>
+    <City_Latitude>12.152</City_Latitude>
+    <City_Longitude>86.273</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>954ae0ec-4d9f-4cce-bdc8-5dca191be21f</city_id>
+    <Country_name>Bahrain</Country_name>
+    <City_name>Manama                                            </City_name>
+    <City_Latitude>26.228</City_Latitude>
+    <City_Longitude>-50.585</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b8167ad6-c36b-43ce-8d27-f792036e2574</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Manchester                                        </City_name>
+    <City_Latitude>42.989</City_Latitude>
+    <City_Longitude>71.468</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>00274b46-64ab-4197-bc8d-5c741f9f3f63</city_id>
+    <Country_name>Philippines</Country_name>
+    <City_name>Manila                                            </City_name>
+    <City_Latitude>14.596</City_Latitude>
+    <City_Longitude>-120.981</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>dde4058d-e3ef-41c2-b900-076a97f001e6</city_id>
+    <Country_name>Mozambique</Country_name>
+    <City_name>Maputo                                            </City_name>
+    <City_Latitude>-25.96</City_Latitude>
+    <City_Longitude>-32.589</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>bdcd85e3-22c3-4a43-99a9-d4b8d2ed8b18</city_id>
+    <Country_name>Lesotho</Country_name>
+    <City_name>Maseru                                            </City_name>
+    <City_Latitude>-29.314</City_Latitude>
+    <City_Longitude>-27.488</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>f661f897-ff3c-4fc2-8402-2c7e5ec345da</city_id>
+    <Country_name>Swaziland</Country_name>
+    <City_name>Mbabane                                           </City_name>
+    <City_Latitude>-26.32</City_Latitude>
+    <City_Longitude>-31.145</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>974768d5-3bd5-4e6c-969f-617399d9321d</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>McAllen                                           </City_name>
+    <City_Latitude>26.202</City_Latitude>
+    <City_Longitude>98.212</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d4a126a1-6f67-457f-b40b-5832d68caa39</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>McGrath                                           </City_name>
+    <City_Latitude>62.949</City_Latitude>
+    <City_Longitude>155.57</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>027e9aa4-646f-422e-80a7-ecd77520d442</city_id>
+    <Country_name>Saudi Arabia</Country_name>
+    <City_name>Mecca                                             </City_name>
+    <City_Latitude>21.45</City_Latitude>
+    <City_Longitude>-39.817</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9ae75b75-1273-4e92-8825-de14bd0eb547</city_id>
+    <Country_name>Australia</Country_name>
+    <City_name>Melbourne                                         </City_name>
+    <City_Latitude>-37.833</City_Latitude>
+    <City_Longitude>-145</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>79504698-57b1-4284-bf97-4909af09b6f0</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Meriden                                           </City_name>
+    <City_Latitude>41.538</City_Latitude>
+    <City_Longitude>72.808</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9477f51f-2920-4262-832e-06267669387a</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Meshik                                            </City_name>
+    <City_Latitude>56.914</City_Latitude>
+    <City_Longitude>158.656</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4d4c04b1-d334-4b90-8470-fdb27ae602e2</city_id>
+    <Country_name>Mexico</Country_name>
+    <City_name>Mexico City                                       </City_name>
+    <City_Latitude>19.455</City_Latitude>
+    <City_Longitude>99.143</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>cc691db6-3a77-4b96-ae85-3069fd701c94</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Miami                                             </City_name>
+    <City_Latitude>25.8</City_Latitude>
+    <City_Longitude>80.2</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>fb1a62ae-e816-4108-ae0d-ed64722dfc7a</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Midland                                           </City_name>
+    <City_Latitude>31.984</City_Latitude>
+    <City_Longitude>102.072</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9a82e98a-890e-4393-aa73-985d0d1d678f</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Milwaukee                                         </City_name>
+    <City_Latitude>43.05</City_Latitude>
+    <City_Longitude>87.933</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c9a86a41-f60b-428c-a445-1878e902a091</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Minneapolis                                       </City_name>
+    <City_Latitude>44.967</City_Latitude>
+    <City_Longitude>93.25</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>46fc5916-7793-4d66-ac6c-0bc9516e4372</city_id>
+    <Country_name>Belarus</Country_name>
+    <City_name>Minsk                                             </City_name>
+    <City_Latitude>53.903</City_Latitude>
+    <City_Longitude>-27.599</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>89ef6fe1-ae2b-461c-a2f0-31bd6c568d55</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Mobile                                            </City_name>
+    <City_Latitude>30.694</City_Latitude>
+    <City_Longitude>88.043</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7d4520b1-bf81-4de1-9902-6975ac40d8bd</city_id>
+    <Country_name>Somalia</Country_name>
+    <City_name>Mogadishu                                         </City_name>
+    <City_Latitude>2.067</City_Latitude>
+    <City_Longitude>-45.367</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d0365b64-68e4-4974-9060-b7e8d58575f0</city_id>
+    <Country_name>Liberia</Country_name>
+    <City_name>Monrovia                                          </City_name>
+    <City_Latitude>6.314</City_Latitude>
+    <City_Longitude>10.8</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8406fc87-fc62-4067-9bdf-7ef4365372d7</city_id>
+    <Country_name>Uruguay</Country_name>
+    <City_name>Montevideo                                        </City_name>
+    <City_Latitude>-34.883</City_Latitude>
+    <City_Longitude>56.183</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9fe628b6-fed8-45d3-9f01-bee87119f434</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Montgomery-AL                                     </City_name>
+    <City_Latitude>32.383</City_Latitude>
+    <City_Longitude>86.3</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7b899e25-da1a-4e62-96f2-e888e29c4927</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Montpelier-VT                                     </City_name>
+    <City_Latitude>44.256</City_Latitude>
+    <City_Longitude>72.585</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ed6adb1d-f536-4eb5-b5c7-40f24ae1e01b</city_id>
+    <Country_name>Canada</Country_name>
+    <City_name>Montreal                                          </City_name>
+    <City_Latitude>45.5</City_Latitude>
+    <City_Longitude>73.6</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b8b252bb-09f8-4f54-bd1f-8d4fa902e994</city_id>
+    <Country_name>Comoros</Country_name>
+    <City_name>Moroni                                            </City_name>
+    <City_Latitude>-11.683</City_Latitude>
+    <City_Longitude>-43.267</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>09da58fc-24f0-4cd8-884b-719f00f60610</city_id>
+    <Country_name>USSR</Country_name>
+    <City_name>Moscow                                            </City_name>
+    <City_Latitude>55.75</City_Latitude>
+    <City_Longitude>-37.583</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>20e20942-44b7-4a99-b6d0-a6264f7e0ff0</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Moses Point                                       </City_name>
+    <City_Latitude>64.721</City_Latitude>
+    <City_Longitude>161.933</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>55920527-0b38-41ff-9210-66f29823d54d</city_id>
+    <Country_name>Oman</Country_name>
+    <City_name>Muscat                                            </City_name>
+    <City_Latitude>23.616</City_Latitude>
+    <City_Longitude>-58.604</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>3b996c98-a911-4056-b2dc-83a5ce789846</city_id>
+    <Country_name>Kenya</Country_name>
+    <City_name>Nairobi                                           </City_name>
+    <City_Latitude>-1.283</City_Latitude>
+    <City_Longitude>-36.817</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c4eb920e-1357-46f6-883a-61a13e301706</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Nashville-TN                                      </City_name>
+    <City_Latitude>36.166</City_Latitude>
+    <City_Longitude>86.784</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7e49c28b-237e-459a-afe8-c10d19253c3b</city_id>
+    <Country_name>The Bahamas</Country_name>
+    <City_name>Nassau                                            </City_name>
+    <City_Latitude>25.055</City_Latitude>
+    <City_Longitude>77.345</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ab59a4e7-6e3b-4de0-8515-f41f6d328854</city_id>
+    <Country_name>Canada</Country_name>
+    <City_name>Nelson                                            </City_name>
+    <City_Latitude>49.5</City_Latitude>
+    <City_Longitude>117.28</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b547d296-4ea8-453d-977e-1a0bb692166a</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Nenana                                            </City_name>
+    <City_Latitude>64.539</City_Latitude>
+    <City_Longitude>149.084</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8715b6ab-5d75-4022-bbb6-d7e1846578a5</city_id>
+    <Country_name>India</Country_name>
+    <City_name>New Delhi                                         </City_name>
+    <City_Latitude>28.576</City_Latitude>
+    <City_Longitude>-77.196</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b8a156d1-8195-4cff-a8cd-cfe05a7879c6</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>New Haven                                         </City_name>
+    <City_Latitude>41.3</City_Latitude>
+    <City_Longitude>72.933</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4c40f653-bdb7-4119-bb8f-819a23421dd0</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>New Orleans                                       </City_name>
+    <City_Latitude>29.95</City_Latitude>
+    <City_Longitude>90.067</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>aea968c8-a973-4e2c-9e63-e5f593f53216</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>New York                                          </City_name>
+    <City_Latitude>40.733</City_Latitude>
+    <City_Longitude>73.933</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>eb3842f0-80d9-41e8-a372-ac896477959d</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Newark                                            </City_name>
+    <City_Latitude>40.736</City_Latitude>
+    <City_Longitude>74.173</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d160f295-222f-4bf7-af2c-c404d3ac5f14</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Newhalen                                          </City_name>
+    <City_Latitude>59.756</City_Latitude>
+    <City_Longitude>154.861</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>027a7dc9-c4be-4c74-9e19-e1af811633a1</city_id>
+    <Country_name>Niger</Country_name>
+    <City_name>Niamey                                            </City_name>
+    <City_Latitude>13.526</City_Latitude>
+    <City_Longitude>-2.114</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>da3ea412-4515-4abd-a964-8686177f6e87</city_id>
+    <Country_name>Cyprus</Country_name>
+    <City_name>Nicosia                                           </City_name>
+    <City_Latitude>35.176</City_Latitude>
+    <City_Longitude>-33.362</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>255d4bf7-233e-4d76-8150-9800af0bc42e</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Nogales                                           </City_name>
+    <City_Latitude>31.34</City_Latitude>
+    <City_Longitude>110.934</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8ab61462-f3f1-4871-87a4-56f947c8d029</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Nome                                              </City_name>
+    <City_Latitude>64.505</City_Latitude>
+    <City_Longitude>165.311</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>90e1b51e-5496-4d6d-8f6f-2c7de52296a4</city_id>
+    <Country_name>Mauritania</Country_name>
+    <City_name>Nouakchott                                        </City_name>
+    <City_Latitude>18.1</City_Latitude>
+    <City_Longitude>15.95</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>86511340-f4b8-4420-acc5-033114c7d21c</city_id>
+    <Country_name>New Caledonia</Country_name>
+    <City_name>Noumea                                            </City_name>
+    <City_Latitude>-22.26</City_Latitude>
+    <City_Longitude>-166.447</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>12a04087-a12c-454b-9775-d562e65f5cd5</city_id>
+    <Country_name>Greenland</Country_name>
+    <City_name>Nuuk                                              </City_name>
+    <City_Latitude>64.25</City_Latitude>
+    <City_Longitude>51.667</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>13c4912d-891d-48ae-9c88-7bd5c0f235e7</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Odessa                                            </City_name>
+    <City_Latitude>31.837</City_Latitude>
+    <City_Longitude>102.352</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>27849720-92e5-41a4-be7c-9b3982ac9f35</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Oklahoma City-OK                                  </City_name>
+    <City_Latitude>35.467</City_Latitude>
+    <City_Longitude>97.516</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b1700cb1-76c8-4b25-9034-446179a72f84</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Old Harbor                                        </City_name>
+    <City_Latitude>57.211</City_Latitude>
+    <City_Longitude>153.31</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>3c842044-f8ed-49db-809e-7e07f78664f2</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Oliktok                                           </City_name>
+    <City_Latitude>70.499</City_Latitude>
+    <City_Longitude>149.879</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>76ba251b-ec49-47f1-87d2-0712e3dd7ed4</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Olympia-WA                                        </City_name>
+    <City_Latitude>47.038</City_Latitude>
+    <City_Longitude>122.899</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6b5bdf83-8b4d-4756-ba82-ea28dbd4d34b</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Omaha                                             </City_name>
+    <City_Latitude>41.267</City_Latitude>
+    <City_Longitude>95.933</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c364070e-7a16-4613-87f9-7cf6109fd25a</city_id>
+    <Country_name>Aruba</Country_name>
+    <City_name>Oranjestad                                        </City_name>
+    <City_Latitude>12.55</City_Latitude>
+    <City_Longitude>70.053</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b191ea3b-3c50-42b6-8aa4-3d36ec7e2bdd</city_id>
+    <Country_name>Japan</Country_name>
+    <City_name>Osaka                                             </City_name>
+    <City_Latitude>34.667</City_Latitude>
+    <City_Longitude>-135.5</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>cbcb617b-6525-40ef-a478-64183240df1d</city_id>
+    <Country_name>Norway</Country_name>
+    <City_name>Oslo                                              </City_name>
+    <City_Latitude>59.917</City_Latitude>
+    <City_Longitude>-10.75</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4fafc37e-a494-486f-9a59-26d9d38ee987</city_id>
+    <Country_name>Canada</Country_name>
+    <City_name>Ottawa                                            </City_name>
+    <City_Latitude>45.392</City_Latitude>
+    <City_Longitude>75.703</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7a4726e0-4527-4185-abf0-70a3cc344d53</city_id>
+    <Country_name>Burkina Faso</Country_name>
+    <City_name>Ouagadougou                                       </City_name>
+    <City_Latitude>12.375</City_Latitude>
+    <City_Longitude>1.523</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a2d53d0b-504b-40a6-a5aa-0f968ecf5bff</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Palmer                                            </City_name>
+    <City_Latitude>61.594</City_Latitude>
+    <City_Longitude>149.089</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>cb31275d-88d5-473e-b228-85a655a3010d</city_id>
+    <Country_name>Panama</Country_name>
+    <City_name>Panama                                            </City_name>
+    <City_Latitude>9.012</City_Latitude>
+    <City_Longitude>79.5</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9422f54a-2cdb-437f-9685-fc3c79fd2200</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Panama-CZ                                         </City_name>
+    <City_Latitude>9.012</City_Latitude>
+    <City_Longitude>79.5</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d2672ece-a86e-44a8-a1e2-3c4cc08ac20b</city_id>
+    <Country_name>French Polynesia</Country_name>
+    <City_name>Papeete                                           </City_name>
+    <City_Latitude>-17.539</City_Latitude>
+    <City_Longitude>149.524</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8a5cfc4d-f850-4d64-a4d9-904280c2a108</city_id>
+    <Country_name>Suriname</Country_name>
+    <City_name>Paramaribo                                        </City_name>
+    <City_Latitude>5.833</City_Latitude>
+    <City_Longitude>55.167</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e2a8fe74-1cf9-44b3-b10a-8f1d2206444a</city_id>
+    <Country_name>France</Country_name>
+    <City_name>Paris                                             </City_name>
+    <City_Latitude>48.858</City_Latitude>
+    <City_Longitude>-2.344</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8c575467-5865-499f-87e7-2830b0af91da</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Pecos                                             </City_name>
+    <City_Latitude>31.431</City_Latitude>
+    <City_Longitude>103.499</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4e15f8fd-f56a-48bc-9df0-9eb68a808c10</city_id>
+    <Country_name>China</Country_name>
+    <City_name>Peking                                            </City_name>
+    <City_Latitude>39.917</City_Latitude>
+    <City_Longitude>-116.417</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>16049d1b-9a2e-4de1-a83f-6de6539d002d</city_id>
+    <Country_name>Australia</Country_name>
+    <City_name>Perth                                             </City_name>
+    <City_Latitude>-31.933</City_Latitude>
+    <City_Longitude>-115.833</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7f74d8cb-0db4-4644-9c73-a374ac3fb2c9</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Philadelphia                                      </City_name>
+    <City_Latitude>40.667</City_Latitude>
+    <City_Longitude>75.167</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>afbe0b2d-10f1-4a33-8a6b-ca91633c8a68</city_id>
+    <Country_name>Cambodia</Country_name>
+    <City_name>Phnom Penh                                        </City_name>
+    <City_Latitude>11.569</City_Latitude>
+    <City_Longitude>-104.908</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ef1dbdfa-8349-4231-9b9f-b16f22c800ee</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Phoenix-AZ                                        </City_name>
+    <City_Latitude>33.489</City_Latitude>
+    <City_Longitude>112.081</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>12848adc-4ef7-439b-a95b-4460321c5e8d</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Phoenix-AZ                                        </City_name>
+    <City_Latitude>33.489</City_Latitude>
+    <City_Longitude>112.081</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7edb7ea5-a231-4e16-a3a9-9b7ab5f78104</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Pierre-SD                                         </City_name>
+    <City_Latitude>44.368</City_Latitude>
+    <City_Longitude>100.35</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>327c08a7-06a2-4a3a-ae12-87a0a3afe502</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Pierre-SD                                         </City_name>
+    <City_Latitude>44.368</City_Latitude>
+    <City_Longitude>100.35</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c4a18010-10be-4911-a6f5-3c822c762b56</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Pittsburgh                                        </City_name>
+    <City_Latitude>40.45</City_Latitude>
+    <City_Longitude>80</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7ae27bb3-3905-4c0c-8341-8aaed2cf7ae8</city_id>
+    <Country_name>Montserrat</Country_name>
+    <City_name>Plymouth                                          </City_name>
+    <City_Latitude>16.699</City_Latitude>
+    <City_Longitude>62.198</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ec833fea-923a-4056-b8f3-5858cfc81dcc</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Point Hope                                        </City_name>
+    <City_Latitude>68.347</City_Latitude>
+    <City_Longitude>166.816</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4bf5e5cf-4eaf-469d-815a-adbae518e497</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Point Lay                                         </City_name>
+    <City_Latitude>69.739</City_Latitude>
+    <City_Longitude>163.001</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4051bdff-2e03-4ec2-b256-4babbbdd8ecd</city_id>
+    <Country_name>Mauritius</Country_name>
+    <City_name>Port Louis                                        </City_name>
+    <City_Latitude>-20.169</City_Latitude>
+    <City_Longitude>-57.513</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>3a14598e-f07c-407c-bd04-e243c6425913</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Port Moller                                       </City_name>
+    <City_Latitude>56.003</City_Latitude>
+    <City_Longitude>160.551</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b5520c26-046a-4403-919e-7b41d868f514</city_id>
+    <Country_name>Papua New Guinea</Country_name>
+    <City_name>Port Moresby                                      </City_name>
+    <City_Latitude>-9.493</City_Latitude>
+    <City_Longitude>-147.194</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>27524875-1ba1-476b-8042-10ce42c20fb7</city_id>
+    <Country_name>Haiti</Country_name>
+    <City_name>Port-au-Prince                                    </City_name>
+    <City_Latitude>18.535</City_Latitude>
+    <City_Longitude>72.328</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4f554d72-3ed2-4717-881d-ae9245260599</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Portland-ME                                       </City_name>
+    <City_Latitude>43.647</City_Latitude>
+    <City_Longitude>70.261</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>587a07db-d0af-4236-8bb6-c1a514823326</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Portland-OR                                       </City_name>
+    <City_Latitude>45.523</City_Latitude>
+    <City_Longitude>122.676</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a8bcb926-126b-4459-bbc4-3b7f78e0de6b</city_id>
+    <Country_name>Trinidad and Tobago</Country_name>
+    <City_name>Port-of-Spain                                     </City_name>
+    <City_Latitude>10.672</City_Latitude>
+    <City_Longitude>61.533</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7104966c-5ff8-43a0-91e0-8beff1a2c11c</city_id>
+    <Country_name>Benin</Country_name>
+    <City_name>Porto-Novo                                        </City_name>
+    <City_Latitude>6.484</City_Latitude>
+    <City_Longitude>-2.653</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7a5926e4-277a-4a6c-b1ab-4f9fbcaafa3f</city_id>
+    <Country_name>Czech Republic</Country_name>
+    <City_name>Prague                                            </City_name>
+    <City_Latitude>50.07</City_Latitude>
+    <City_Longitude>-14.445</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>89c7855a-ae2f-4302-a554-c55e0da451bb</city_id>
+    <Country_name>Cape Verde</Country_name>
+    <City_name>Praia                                             </City_name>
+    <City_Latitude>14.922</City_Latitude>
+    <City_Longitude>23.498</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9c02a670-80d3-4672-8efb-18cfb24498b8</city_id>
+    <Country_name>South Africa</Country_name>
+    <City_name>Pretoria                                          </City_name>
+    <City_Latitude>-25.725</City_Latitude>
+    <City_Longitude>-28.223</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4e221754-147b-4695-8f8d-35de4582544f</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Providence-RI                                     </City_name>
+    <City_Latitude>41.824</City_Latitude>
+    <City_Longitude>71.413</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7798955b-e583-4d0e-b0b8-b8d9f8feb590</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Prudhoe Bay                                       </City_name>
+    <City_Latitude>70.258</City_Latitude>
+    <City_Longitude>148.357</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e40f1104-474d-4275-99a2-4f148226ae91</city_id>
+    <Country_name>Canada</Country_name>
+    <City_name>Quebec                                            </City_name>
+    <City_Latitude>46.82</City_Latitude>
+    <City_Longitude>71.18</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>cf1b4ab5-ac97-4ca2-9b40-14768624474e</city_id>
+    <Country_name>Ecuador</Country_name>
+    <City_name>Quito                                             </City_name>
+    <City_Latitude>-.217</City_Latitude>
+    <City_Longitude>78.5</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d3b0c064-001d-4526-b3a4-eb3d9672af0b</city_id>
+    <Country_name>Morocco</Country_name>
+    <City_name>Rabat                                             </City_name>
+    <City_Latitude>34.009</City_Latitude>
+    <City_Longitude>6.83</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>37be71bd-9173-43f3-b972-3bb766529a36</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Raleigh-NC                                        </City_name>
+    <City_Latitude>35.772</City_Latitude>
+    <City_Longitude>78.639</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>95e6a5d3-364a-45a3-93f4-234193a55c09</city_id>
+    <Country_name>Burma</Country_name>
+    <City_name>Rangoon                                           </City_name>
+    <City_Latitude>16.782</City_Latitude>
+    <City_Longitude>-96.173</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>0b11c6a2-1c88-42c2-8579-6efffd288053</city_id>
+    <Country_name>Brazil</Country_name>
+    <City_name>Recife                                            </City_name>
+    <City_Latitude>-8</City_Latitude>
+    <City_Longitude>35</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a1184a84-8072-487d-baeb-7ae406685906</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Reno                                              </City_name>
+    <City_Latitude>39.53</City_Latitude>
+    <City_Longitude>119.813</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b08c12f7-6ffe-4168-89ed-dcfc23007418</city_id>
+    <Country_name>Iceland</Country_name>
+    <City_name>Reykjavik                                         </City_name>
+    <City_Latitude>64.144</City_Latitude>
+    <City_Longitude>21.943</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>44b8881b-2c8d-4b56-84b9-a3287de89817</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Richmond-NC                                       </City_name>
+    <City_Latitude>37.554</City_Latitude>
+    <City_Longitude>77.461</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>f871b53f-0c03-4ee9-8a4d-091f6388869b</city_id>
+    <Country_name>Latvia</Country_name>
+    <City_name>Riga                                              </City_name>
+    <City_Latitude>56.95</City_Latitude>
+    <City_Longitude>-24.1</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4563b901-daef-4d0a-ba72-d716e7767c68</city_id>
+    <Country_name>Brazil</Country_name>
+    <City_name>Rio de Janeiro                                    </City_name>
+    <City_Latitude>-22.883</City_Latitude>
+    <City_Longitude>43.283</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>61aebc38-0066-4784-a30d-3f983b5d1ef9</city_id>
+    <Country_name>Saudi Arabia</Country_name>
+    <City_name>Riyadh                                            </City_name>
+    <City_Latitude>24.644</City_Latitude>
+    <City_Longitude>-46.741</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d72ae715-71c6-4873-be42-fcda07099229</city_id>
+    <Country_name>British Virgin Islands</Country_name>
+    <City_name>Road Town                                         </City_name>
+    <City_Latitude>18.419</City_Latitude>
+    <City_Longitude>64.618</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>38f90728-4be1-4a78-a326-29c7b87a5a01</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Rochester                                         </City_name>
+    <City_Latitude>43.26</City_Latitude>
+    <City_Longitude>77.681</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>0cf57572-5226-47d2-8816-3740ba0a968a</city_id>
+    <Country_name>Italy </Country_name>
+    <City_name>Rome                                              </City_name>
+    <City_Latitude>41.899</City_Latitude>
+    <City_Longitude>-12.491</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ea5b8178-e7cc-46ee-aa04-faa6c32da8de</city_id>
+    <Country_name>Dominica</Country_name>
+    <City_name>Roseau                                            </City_name>
+    <City_Latitude>15.294</City_Latitude>
+    <City_Longitude>61.371</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>fc0c421c-8cfa-4597-85c6-a23201b4153f</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Sacramento-CA                                     </City_name>
+    <City_Latitude>38.582</City_Latitude>
+    <City_Longitude>121.493</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4f6cce9c-f2f8-4f9d-9f8c-29e2d141a133</city_id>
+    <Country_name>Vietnam</Country_name>
+    <City_name>Saigon                                            </City_name>
+    <City_Latitude>10.967</City_Latitude>
+    <City_Longitude>-106.667</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a643aba2-31ad-4012-be13-f23b9858f587</city_id>
+    <Country_name>USA</Country_name>
+    <City_name>Saint Georges                                     </City_name>
+    <City_Latitude>12.08</City_Latitude>
+    <City_Longitude>61.732</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>83907b2c-d10a-4c48-b532-faf6afe2eb9d</city_id>
+    <Country_name>Antigua And Barbuda</Country_name>
+    <City_name>Saint Johns                                       </City_name>
+    <City_Latitude>17.101</City_Latitude>
+    <City_Longitude>61.834</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>eb64eeec-31fa-4662-a7f1-fc5a2298724a</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Saint Michael                                     </City_name>
+    <City_Latitude>63.478</City_Latitude>
+    <City_Longitude>162.074</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e4dc8329-f9df-4491-80a3-d4641ca6fb4e</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Saint Paul-MN                                     </City_name>
+    <City_Latitude>44.956</City_Latitude>
+    <City_Longitude>93.097</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>01f30ffa-a627-416a-80c1-3887e30afde8</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Saint Petersburg                                  </City_name>
+    <City_Latitude>27.771</City_Latitude>
+    <City_Longitude>82.679</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>33e49ec4-4b32-4ea5-bce2-1f915ece8919</city_id>
+    <Country_name>Reunion</Country_name>
+    <City_name>Saint-Denis                                       </City_name>
+    <City_Latitude>-20.896</City_Latitude>
+    <City_Longitude>-55.441</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>bdb14783-b826-41a3-b5ab-70d5d8a975e0</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Salem-OR                                          </City_name>
+    <City_Latitude>44.943</City_Latitude>
+    <City_Longitude>123.034</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c8c45885-2a47-4f41-a8ce-150249536622</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Salt Lake City-UT                                 </City_name>
+    <City_Latitude>40.75</City_Latitude>
+    <City_Longitude>111.867</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4f5532eb-bdd1-40f6-ab69-ee612bfeda72</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>San Angelo                                        </City_name>
+    <City_Latitude>31.452</City_Latitude>
+    <City_Longitude>100.443</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>50d5525f-9c45-4ce8-b536-d51a5a3527dd</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>San Antonio                                       </City_name>
+    <City_Latitude>29.433</City_Latitude>
+    <City_Longitude>98.508</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>74b00d6b-cf08-4673-8f13-11e1b9040212</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>San Bernardino                                    </City_name>
+    <City_Latitude>34.121</City_Latitude>
+    <City_Longitude>117.302</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a43d6595-beef-4555-b9fa-4232929adacd</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>San Diego                                         </City_name>
+    <City_Latitude>32.732</City_Latitude>
+    <City_Longitude>117.161</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4922a3e1-99f5-4fba-8f8b-be9785d29735</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>San Francisco-CA                                  </City_name>
+    <City_Latitude>37.8</City_Latitude>
+    <City_Longitude>122.467</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>fc68729e-0c86-478e-80a5-4b0faff3e2aa</city_id>
+    <Country_name>Costa Rica</Country_name>
+    <City_name>San Jose                                          </City_name>
+    <City_Latitude>9.931</City_Latitude>
+    <City_Longitude>84.076</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>92b94e74-604c-45c9-8455-7e86860b6f0c</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>San Jose                                          </City_name>
+    <City_Latitude>37.335</City_Latitude>
+    <City_Longitude>121.894</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>09602468-a4e8-4387-99a8-eebabc7b4034</city_id>
+    <Country_name>Puerto Rico</Country_name>
+    <City_name>San Juan                                          </City_name>
+    <City_Latitude>18.423</City_Latitude>
+    <City_Longitude>66.05</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ac7aa540-c094-4328-a8d2-3b7dca3b2c2f</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>San Juan-PR                                       </City_name>
+    <City_Latitude>18.423</City_Latitude>
+    <City_Longitude>66.05</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>6edd9763-c172-4c6a-985c-f8a3187dc09f</city_id>
+    <Country_name>San Marino</Country_name>
+    <City_name>San Marino                                        </City_name>
+    <City_Latitude>43.935</City_Latitude>
+    <City_Longitude>-12.455</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9aa18b55-6f36-4246-8f74-c3b64c5e8f46</city_id>
+    <Country_name>El Salvador</Country_name>
+    <City_name>San Salvador                                      </City_name>
+    <City_Latitude>13.78</City_Latitude>
+    <City_Longitude>89.233</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2cc8e7eb-bab5-4c3c-bc86-1d9274e0d0da</city_id>
+    <Country_name>Yemen</Country_name>
+    <City_name>Sanaa                                             </City_name>
+    <City_Latitude>15.383</City_Latitude>
+    <City_Longitude>-44.2</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>83451a0d-6922-49e9-9d81-1a35d37b14a8</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Sand Point                                        </City_name>
+    <City_Latitude>55.332</City_Latitude>
+    <City_Longitude>160.494</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>27442a33-ca74-4ec3-832c-9f2493db8e0b</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Santa Fe-NM                                       </City_name>
+    <City_Latitude>35.687</City_Latitude>
+    <City_Longitude>105.937</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c5f00c98-2d69-40b0-9ece-2ebb80b25f2a</city_id>
+    <Country_name>Chile</Country_name>
+    <City_name>Santiago                                          </City_name>
+    <City_Latitude>-33.45</City_Latitude>
+    <City_Longitude>70.667</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>68a59323-33fc-47c5-b46c-f136536f7f18</city_id>
+    <Country_name>Dominican Republic</Country_name>
+    <City_name>Santo Domingo                                     </City_name>
+    <City_Latitude>18.487</City_Latitude>
+    <City_Longitude>69.893</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ac1974dd-6670-44de-a4ea-d8f53d9c6b5a</city_id>
+    <Country_name>Brazil</Country_name>
+    <City_name>Sao Paulo                                         </City_name>
+    <City_Latitude>-23.55</City_Latitude>
+    <City_Longitude>46.65</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a7c6a3a2-373f-4f2c-9700-cc24744642c5</city_id>
+    <Country_name>Sao Tome and Principe</Country_name>
+    <City_name>Sao Tome                                          </City_name>
+    <City_Latitude>.331</City_Latitude>
+    <City_Longitude>-6.73</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>77ccafba-b606-45a5-a9d8-9e8efb062c77</city_id>
+    <Country_name>Bosnia and Herzegovina</Country_name>
+    <City_name>Sarajevo                                          </City_name>
+    <City_Latitude>43.872</City_Latitude>
+    <City_Longitude>-18.418</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8c126d0e-9b7b-480c-8bd5-c540834ab9c1</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Savannah                                          </City_name>
+    <City_Latitude>32.083</City_Latitude>
+    <City_Longitude>81.1</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>15615085-798f-45f7-a705-823380f3e700</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Seattle                                           </City_name>
+    <City_Latitude>47.6</City_Latitude>
+    <City_Longitude>122.333</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8685b2a3-4743-40a5-896e-4dfad2e9141c</city_id>
+    <Country_name>South Korea</Country_name>
+    <City_name>Seoul                                             </City_name>
+    <City_Latitude>37.563</City_Latitude>
+    <City_Longitude>-126.977</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8c42d9da-0116-4956-875d-639bd17ac136</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Seward                                            </City_name>
+    <City_Latitude>60.123</City_Latitude>
+    <City_Longitude>149.418</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2a28496b-4638-4ad3-9db9-ce9f882ac71b</city_id>
+    <Country_name>China</Country_name>
+    <City_name>Shanghai                                          </City_name>
+    <City_Latitude>31.233</City_Latitude>
+    <City_Longitude>-121.5</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e6cf2af4-6876-4ddb-a46e-0a4cb115b163</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Shishmaref                                        </City_name>
+    <City_Latitude>66.256</City_Latitude>
+    <City_Longitude>166.099</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>35d90e25-6dbe-4887-b6f6-96643ebea188</city_id>
+    <Country_name>Singapore</Country_name>
+    <City_name>Singapore                                         </City_name>
+    <City_Latitude>1.283</City_Latitude>
+    <City_Longitude>-103.85</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>979457e8-dc3e-4fb2-8986-608dab610ac2</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Sioux City                                        </City_name>
+    <City_Latitude>42.5</City_Latitude>
+    <City_Longitude>96.4</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d251c904-e8de-4795-93e6-550287993045</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Sioux Falls                                       </City_name>
+    <City_Latitude>43.55</City_Latitude>
+    <City_Longitude>96.7</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e95ee21e-0045-4c6f-b2d9-26cd01df04bb</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Sitka                                             </City_name>
+    <City_Latitude>57.059</City_Latitude>
+    <City_Longitude>135.285</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>72af20d6-cc50-4e75-a595-62fb00c38c89</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Skagway                                           </City_name>
+    <City_Latitude>59.468</City_Latitude>
+    <City_Longitude>135.302</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>69e31678-6b64-4cb3-903a-30bef4e2fdc7</city_id>
+    <Country_name>The Former Yugoslav Republic</Country_name>
+    <City_name>Skopje                                            </City_name>
+    <City_Latitude>42</City_Latitude>
+    <City_Longitude>-21.467</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>1ef302ee-0647-42e9-9571-6c381a6c08af</city_id>
+    <Country_name>Bulgaria</Country_name>
+    <City_name>Sofia                                             </City_name>
+    <City_Latitude>42.692</City_Latitude>
+    <City_Longitude>-23.323</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>5eece88b-b4ea-4165-aedc-ffb6c8f41349</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Springfield-IL                                    </City_name>
+    <City_Latitude>39.8</City_Latitude>
+    <City_Longitude>90.37</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>26feb361-fbb6-41d8-850d-9fd90b757132</city_id>
+    <Country_name>Canada</Country_name>
+    <City_name>St. John                                          </City_name>
+    <City_Latitude>45.30</City_Latitude>
+    <City_Longitude>66.17</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>3aba1351-e3fe-40f0-8e39-d0ecff92aa0c</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>St. Louis                                         </City_name>
+    <City_Latitude>38.627</City_Latitude>
+    <City_Longitude>90.198</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2a42b1ad-adda-4f94-afea-c31e00764378</city_id>
+    <Country_name>Falkland Islands (Islas Malvinas)</Country_name>
+    <City_name>Stanley                                           </City_name>
+    <City_Latitude>-51.7</City_Latitude>
+    <City_Longitude>57.85</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>cb1b6432-fa0e-48a8-b372-ff1fcb6af6e9</city_id>
+    <Country_name>Sweden</Country_name>
+    <City_name>Stockholm                                         </City_name>
+    <City_Latitude>59.333</City_Latitude>
+    <City_Longitude>-18.05</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>7d7d65cd-efb2-4480-a063-8a831e8b33c5</city_id>
+    <Country_name>Fiji</Country_name>
+    <City_name>Suva                                              </City_name>
+    <City_Latitude>-18.131</City_Latitude>
+    <City_Longitude>-178.459</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>88606119-e20d-451d-a627-a6a262c60a57</city_id>
+    <Country_name>Australia</Country_name>
+    <City_name>Sydney                                            </City_name>
+    <City_Latitude>-33.867</City_Latitude>
+    <City_Longitude>-151.217</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>30b1e956-6b46-4270-83c8-69ebba74015e</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Syracuse                                          </City_name>
+    <City_Latitude>43.062</City_Latitude>
+    <City_Longitude>76.176</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>e34724dc-85a2-4e10-b2ee-f51a343958d4</city_id>
+    <Country_name>Taiwan</Country_name>
+    <City_name>Taipei                                            </City_name>
+    <City_Latitude>25.044</City_Latitude>
+    <City_Longitude>-121.497</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9cebe0b9-4231-41d4-90e7-f2f10ba2f3ec</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Talkeetna                                         </City_name>
+    <City_Latitude>62.324</City_Latitude>
+    <City_Longitude>150.087</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>edab8180-7235-443d-bd15-d2ee4de5fe04</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Tallahassee-FL                                    </City_name>
+    <City_Latitude>30.438</City_Latitude>
+    <City_Longitude>84.281</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>097dc7fa-3ecd-48fd-80bd-48e60b51ba89</city_id>
+    <Country_name>Estonia</Country_name>
+    <City_name>Tallin                                            </City_name>
+    <City_Latitude>59.417</City_Latitude>
+    <City_Longitude>-24.75</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>73adb53c-86f1-42b7-9eef-a55eacb92e70</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Tanana                                            </City_name>
+    <City_Latitude>65.182</City_Latitude>
+    <City_Longitude>152.145</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>0fb46868-0bec-4139-bde4-abaab8b39ac4</city_id>
+    <Country_name>Kiribati</Country_name>
+    <City_name>Tarawa                                            </City_name>
+    <City_Latitude>1.349</City_Latitude>
+    <City_Longitude>-173.117</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>5c6b1f42-d434-4a04-92c5-760f085b446a</city_id>
+    <Country_name>Uzbekistan</Country_name>
+    <City_name>Tashkent                                          </City_name>
+    <City_Latitude>41.333</City_Latitude>
+    <City_Longitude>-69.3</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4690d3b2-c3ae-42f3-b51d-343430cd51c9</city_id>
+    <Country_name>Honduras</Country_name>
+    <City_name>Tegucigalpa                                       </City_name>
+    <City_Latitude>14.086</City_Latitude>
+    <City_Longitude>87.203</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>971d4f5e-31ad-4150-a2ce-bba263c6f45e</city_id>
+    <Country_name>Iran</Country_name>
+    <City_name>Tehran                                            </City_name>
+    <City_Latitude>35.687</City_Latitude>
+    <City_Longitude>-51.415</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>1d08afc8-2626-41a3-8c08-1e893354dc08</city_id>
+    <Country_name>Israel     </Country_name>
+    <City_name>Tel Aviv-Yafo                                     </City_name>
+    <City_Latitude>32.078</City_Latitude>
+    <City_Longitude>-34.763</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9915f2f3-5b5b-4006-9ad7-f508a837f01b</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Teller                                            </City_name>
+    <City_Latitude>65.254</City_Latitude>
+    <City_Longitude>166.362</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>89aaa31e-6b68-4e1c-8cd1-e3dd7ad1a0fc</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Tetlin Junction                                   </City_name>
+    <City_Latitude>63.326</City_Latitude>
+    <City_Longitude>142.603</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>16b4a7ed-ab65-43e1-bff1-1cb40e38ba7a</city_id>
+    <Country_name>Bhutan</Country_name>
+    <City_name>Thimphu                                           </City_name>
+    <City_Latitude>27.483</City_Latitude>
+    <City_Longitude>-89.6</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d508eb83-538d-483c-8800-7a574dcf95bb</city_id>
+    <Country_name>Albania</Country_name>
+    <City_name>Tirane                                            </City_name>
+    <City_Latitude>41.327</City_Latitude>
+    <City_Longitude>-19.81</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>da584553-8152-4fb3-ba98-316ff83e2174</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Togiak                                            </City_name>
+    <City_Latitude>59.049</City_Latitude>
+    <City_Longitude>160.446</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>988e8256-3526-4fb7-8c47-69e94fa419a9</city_id>
+    <Country_name>Japan</Country_name>
+    <City_name>Tokyo                                             </City_name>
+    <City_Latitude>35.675</City_Latitude>
+    <City_Longitude>-139.769</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>bbb81e4d-6751-4c76-94dc-02573932d90b</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Topeka-KS                                         </City_name>
+    <City_Latitude>39.048</City_Latitude>
+    <City_Longitude>95.678</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>02949c47-a3f0-4b11-b52b-562e7adc65e3</city_id>
+    <Country_name>Canada</Country_name>
+    <City_name>Toronto                                           </City_name>
+    <City_Latitude>43.65</City_Latitude>
+    <City_Longitude>79.333</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>bf05b59a-e4ac-4498-80f2-27fabc955036</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Trenton-NJ                                        </City_name>
+    <City_Latitude>40.217</City_Latitude>
+    <City_Longitude>74.743</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ff22a8b7-919e-41bd-822b-2de7be24a107</city_id>
+    <Country_name>Libyan Arab Jamahiriya</Country_name>
+    <City_name>Tripoli                                           </City_name>
+    <City_Latitude>32.892</City_Latitude>
+    <City_Longitude>-13.202</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>3d5628b8-679d-4fb2-9951-0a48860bc76e</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Tucson                                            </City_name>
+    <City_Latitude>32.239</City_Latitude>
+    <City_Longitude>110.947</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>f5e79e1e-4486-47c8-ab74-9edc376bb61d</city_id>
+    <Country_name>Tunisia</Country_name>
+    <City_name>Tunis                                             </City_name>
+    <City_Latitude>36.82</City_Latitude>
+    <City_Longitude>-10.176</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>020b6bd5-b1c0-4b06-90c9-f85b02813ad4</city_id>
+    <Country_name>Mongolia</Country_name>
+    <City_name>Ulaanbaatar                                       </City_name>
+    <City_Latitude>47.927</City_Latitude>
+    <City_Longitude>-106.892</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9cf35e1b-8d27-492a-8ec0-7c2bd578e338</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Umiat                                             </City_name>
+    <City_Latitude>69.403</City_Latitude>
+    <City_Longitude>152.087</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>698806b1-c61b-45c5-9d77-db6e501ad0b4</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Umkumiut                                          </City_name>
+    <City_Latitude>60.519</City_Latitude>
+    <City_Longitude>165.173</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d9551c70-cbc4-44f8-8120-8a43b3243841</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Unalakleet                                        </City_name>
+    <City_Latitude>63.932</City_Latitude>
+    <City_Longitude>160.792</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>5f5342ba-1cac-4b8a-bd8e-87f4037ab716</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Ungalik                                           </City_name>
+    <City_Latitude>64.558</City_Latitude>
+    <City_Longitude>160.904</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>739ebf67-04fa-4b61-b857-894af352015b</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Utopia                                            </City_name>
+    <City_Latitude>66</City_Latitude>
+    <City_Longitude>153.692</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>c4325619-18a8-468c-9527-c847a9eeb788</city_id>
+    <Country_name>Liechtenstein</Country_name>
+    <City_name>Vaduz                                             </City_name>
+    <City_Latitude>47.133</City_Latitude>
+    <City_Longitude>-9.542</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>92c7bb4b-cff5-4fd1-a291-3ee861faf164</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Valdez                                            </City_name>
+    <City_Latitude>61.137</City_Latitude>
+    <City_Longitude>146.383</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>79ac41b6-4c50-4c22-9a43-302392805469</city_id>
+    <Country_name>Malta</Country_name>
+    <City_name>Valletta                                          </City_name>
+    <City_Latitude>35.894</City_Latitude>
+    <City_Longitude>-14.505</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b4d1c1bb-8021-4271-a92e-7b35de1f4d43</city_id>
+    <Country_name>Canada</Country_name>
+    <City_name>Vancouver                                         </City_name>
+    <City_Latitude>49.267</City_Latitude>
+    <City_Longitude>123.117</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>cac69074-a87e-4a00-9071-87b71e56dbcb</city_id>
+    <Country_name>Hong Kong</Country_name>
+    <City_name>Victoria                                          </City_name>
+    <City_Latitude>22.277</City_Latitude>
+    <City_Longitude>-114.153</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>0c64effb-f1ae-4305-8744-a6f681043f95</city_id>
+    <Country_name>Canada</Country_name>
+    <City_name>Victoria                                          </City_name>
+    <City_Latitude>48.42</City_Latitude>
+    <City_Longitude>123.35</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>44fe1728-92ab-4bea-8bb4-b828e7a4d58e</city_id>
+    <Country_name>Austria </Country_name>
+    <City_name>Vienna                                            </City_name>
+    <City_Latitude>48.193</City_Latitude>
+    <City_Longitude>-16.326</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>09111891-fda9-4451-a42e-0b611ac8cb59</city_id>
+    <Country_name>Laos </Country_name>
+    <City_name>Vientiane                                         </City_name>
+    <City_Latitude>17.945</City_Latitude>
+    <City_Longitude>-102.627</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>77806440-9c23-42ee-beef-1d5e375958ec</city_id>
+    <Country_name>Lithuania</Country_name>
+    <City_name>Vilnius                                           </City_name>
+    <City_Latitude>54.683</City_Latitude>
+    <City_Longitude>-25.317</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>0047ac92-b740-40f4-a345-1be8f2136af6</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Waco                                              </City_name>
+    <City_Latitude>31.53</City_Latitude>
+    <City_Longitude>97.146</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ceaa9a67-8cf9-4e6d-9500-1f5ca307c115</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Wainwright                                        </City_name>
+    <City_Latitude>70.654</City_Latitude>
+    <City_Longitude>160.029</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>9e78df3b-87e2-4626-9d06-2611bb63dd5b</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Wales                                             </City_name>
+    <City_Latitude>65.621</City_Latitude>
+    <City_Longitude>168.08</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8991ba42-18e7-4cb0-9995-d79340560ff6</city_id>
+    <Country_name>Poland</Country_name>
+    <City_name>Warsaw                                            </City_name>
+    <City_Latitude>52.248</City_Latitude>
+    <City_Longitude>-21.021</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>4ed7dce8-82b0-4abc-af70-3f4c6371200f</city_id>
+    <Country_name>USA</Country_name>
+    <City_name>Washington DC                                     </City_name>
+    <City_Latitude>38.883</City_Latitude>
+    <City_Longitude>77.017</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>5ee52b33-5e34-45ed-ae2a-2386c2330c4f</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Washington-DC                                     </City_name>
+    <City_Latitude>38.883</City_Latitude>
+    <City_Longitude>77.017</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>dc8cbe13-537b-416e-9636-830b4ab0f240</city_id>
+    <Country_name>New Zealand</Country_name>
+    <City_name>Wellington                                        </City_name>
+    <City_Latitude>-41.262</City_Latitude>
+    <City_Longitude>-174.776</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>f671ec87-3905-4c1f-8e14-a047b6fe10cc</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Wevok                                             </City_name>
+    <City_Latitude>68.863</City_Latitude>
+    <City_Longitude>166.141</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>924478da-d8b0-49b0-98c6-148420673178</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Whittier                                          </City_name>
+    <City_Latitude>60.784</City_Latitude>
+    <City_Longitude>148.653</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>1f90a3fa-02ce-42f2-92cb-c5d0a102f827</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Wichita                                           </City_name>
+    <City_Latitude>37.692</City_Latitude>
+    <City_Longitude>97.337</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8651a986-d94c-45c9-9b6b-9f34753fded3</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Willow                                            </City_name>
+    <City_Latitude>61.719</City_Latitude>
+    <City_Longitude>150.002</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>a3496dfe-d425-48b9-9ccb-515ee9513e4b</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Wilmington                                        </City_name>
+    <City_Latitude>39.746</City_Latitude>
+    <City_Longitude>75.547</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>092c3c2e-537e-49f2-8203-a06e4574d2e0</city_id>
+    <Country_name>Namibia</Country_name>
+    <City_name>Windhoek                                          </City_name>
+    <City_Latitude>-22.571</City_Latitude>
+    <City_Longitude>-17.087</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>d878dfd4-0e3e-475e-8762-1bd48b8fac17</city_id>
+    <Country_name>Canada</Country_name>
+    <City_name>Winnipeg                                          </City_name>
+    <City_Latitude>49.9</City_Latitude>
+    <City_Longitude>97.15</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>49821c4b-fb23-4f3b-882a-ef62c8afc8c6</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Winston-Salem                                     </City_name>
+    <City_Latitude>36.1</City_Latitude>
+    <City_Longitude>80.244</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>ccd45d53-a628-4d00-9193-7f5acb006df7</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Wrangell                                          </City_name>
+    <City_Latitude>56.479</City_Latitude>
+    <City_Longitude>132.357</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>2322cf0f-e78b-4820-968f-49895638a931</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Yakutat                                           </City_name>
+    <City_Latitude>59.539</City_Latitude>
+    <City_Longitude>139.744</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>8a6c24ff-c337-479c-9060-bfb267afa1f7</city_id>
+    <Country_name>Cameroon</Country_name>
+    <City_name>Yaounde                                           </City_name>
+    <City_Latitude>3.866</City_Latitude>
+    <City_Longitude>-11.534</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b82772f0-024f-4d24-83f1-8510e19d024e</city_id>
+    <Country_name>Nauru</Country_name>
+    <City_name>Yaren                                             </City_name>
+    <City_Latitude>-.533</City_Latitude>
+    <City_Longitude>-166.917</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b31c0884-7e23-4286-9e3f-dd9fa5f5027d</city_id>
+    <Country_name>Armenia</Country_name>
+    <City_name>Yerevan                                           </City_name>
+    <City_Latitude>40.183</City_Latitude>
+    <City_Longitude>-44.5</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>86a16bb5-2739-472d-ad40-bf228568cd14</city_id>
+    <Country_name>USA       </Country_name>
+    <City_name>Yuma                                              </City_name>
+    <City_Latitude>32.712</City_Latitude>
+    <City_Longitude>114.636</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>b3e6bbd2-d4f6-40b7-bb8c-0dd7deb687a4</city_id>
+    <Country_name>Croatia</Country_name>
+    <City_name>Zagreb                                            </City_name>
+    <City_Latitude>45.81</City_Latitude>
+    <City_Longitude>-15.957</City_Longitude>
+  </T_Cities>
+  <T_Cities>
+    <city_id>35cb23fe-6627-4fe4-92cd-ab758fd5c1a7</city_id>
+    <Country_name>Switzerland      </Country_name>
+    <City_name>Zurich                                            </City_name>
+    <City_Latitude>47.383</City_Latitude>
+    <City_Longitude>-8.55</City_Longitude>
+  </T_Cities>
+</NewDataSet>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Dou3akumail">
+</Property><Property Name="Solution File" Value="C:\Users\Cheaito\project\Dou3akumail\Dou3akumail.sln">
+</Property><Property Name="Date" Value="Saturday, August 14, 2010">
+</Property><Property Name="Time" Value="9:54 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Dou3akumail" Source="Dou3akumail.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Dou3akumail" Source="Dou3akumail.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WaveControl" Source="WaveControl\WaveControl.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WaveControl" Source="WaveControl\WaveControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Dou3akumail.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Dou3akumail.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Dou3akumail" Source="Dou3akumail.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WaveControl" Source="WaveControl\WaveControl.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

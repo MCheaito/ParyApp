@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PrayerApp">
+</Property><Property Name="Solution File" Value="C:\Users\Cheaito\project\PrayerApp\PrayerApp.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Cheaito\project\PrayerApp\PrayerApp.suo">
+</Property><Property Name="Date" Value="Wednesday, September 01, 2010">
+</Property><Property Name="Time" Value="23:23 PM">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PrayerApp.sln" Description="File successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\PrayerApp.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PrayerApp.suo" Description="File successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\PrayerApp.suo">
+</Event><Event ErrorLevel="0" Project="PrayerApp" Source="PrayerApp.csproj" Description="Project file successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\PrayerApp.csproj">
+</Event><Event ErrorLevel="0" Project="PrayerApp" Source="PrayerApp.csproj.user" Description="Project user file successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\PrayerApp.csproj.user">
+</Event><Event ErrorLevel="0" Project="PrayerApp" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PrayerApp" Source="Form1.cs" Description="File successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="PrayerApp" Source="App.ico" Description="File successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="PrayerApp" Source="Form1.resx" Description="File successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="PrayerApp" Source="PrayerApp.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="PrayerApp" Source="PrayerApp.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="1" Project="Nour.Athan.lib" Source="..\Nour.Athan.Lib\Nour.Athan.lib.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="Nour.Athan.lib" Source="..\Nour.Athan.Lib\Nour.Athan.lib.csproj" Description="Project file successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\Nour.Athan.lib\Nour.Athan.lib.csproj">
+</Event><Event ErrorLevel="0" Project="Nour.Athan.lib" Source="..\Nour.Athan.Lib\Nour.Athan.lib.csproj.user" Description="Project user file successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\Nour.Athan.lib\Nour.Athan.lib.csproj.user">
+</Event><Event ErrorLevel="0" Project="Nour.Athan.lib" Source="..\Nour.Athan.Lib\City.cs" Description="File successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\Nour.Athan.lib\City.cs">
+</Event><Event ErrorLevel="0" Project="Nour.Athan.lib" Source="..\Nour.Athan.Lib\DateConvertor.cs" Description="File successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\Nour.Athan.lib\DateConvertor.cs">
+</Event><Event ErrorLevel="0" Project="Nour.Athan.lib" Source="..\Nour.Athan.Lib\PrayerTime.cs" Description="File successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\Nour.Athan.lib\PrayerTime.cs">
+</Event><Event ErrorLevel="0" Project="Nour.Athan.lib" Source="..\Nour.Athan.Lib\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\Nour.Athan.lib\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Nour.Athan.lib" Source="..\Nour.Athan.Lib\Rts.cs" Description="File successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\Nour.Athan.lib\Rts.cs">
+</Event><Event ErrorLevel="0" Project="Nour.Athan.lib" Source="..\Nour.Athan.Lib\Utils.cs" Description="File successfully backed up as C:\Users\Cheaito\project\PrayerApp\Backup\Nour.Athan.lib\Utils.cs">
+</Event><Event ErrorLevel="0" Project="Nour.Athan.lib" Source="..\Nour.Athan.Lib\Nour.Athan.lib.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Nour.Athan.lib" Source="..\Nour.Athan.Lib\Nour.Athan.lib.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="PrayerApp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PrayerApp.sln" Description="Converted">
+</Event></UpgradeLog>

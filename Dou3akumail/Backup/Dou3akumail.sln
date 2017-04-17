@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dou3akumail", "Dou3akumail.csproj", "{9B64A5F8-0A63-40C9-A208-57EFAB49232E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveControl", "WaveControl\WaveControl.csproj", "{D807456F-AB02-409D-A6F8-1F75BA11442E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9B64A5F8-0A63-40C9-A208-57EFAB49232E}.Debug.ActiveCfg = Debug|.NET
+		{9B64A5F8-0A63-40C9-A208-57EFAB49232E}.Debug.Build.0 = Debug|.NET
+		{9B64A5F8-0A63-40C9-A208-57EFAB49232E}.Release.ActiveCfg = Release|.NET
+		{9B64A5F8-0A63-40C9-A208-57EFAB49232E}.Release.Build.0 = Release|.NET
+		{D807456F-AB02-409D-A6F8-1F75BA11442E}.Debug.ActiveCfg = Debug|.NET
+		{D807456F-AB02-409D-A6F8-1F75BA11442E}.Debug.Build.0 = Debug|.NET
+		{D807456F-AB02-409D-A6F8-1F75BA11442E}.Release.ActiveCfg = Release|.NET
+		{D807456F-AB02-409D-A6F8-1F75BA11442E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
