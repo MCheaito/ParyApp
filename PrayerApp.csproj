@@ -93,23 +93,66 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotifyWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prayer\City.cs" />
+    <Compile Include="Prayer\DateConvertor.cs" />
+    <Compile Include="Prayer\PrayerTime.cs" />
+    <Compile Include="Prayer\Rts.cs" />
+    <Compile Include="Rts.cs" />
     <Content Include="App.ico" />
-    <Compile Include="AssemblyInfo.cs">
-      <SubType>Code</SubType>
+    <Compile Include="City.cs" />
+    <Compile Include="DateConvertor.cs" />
+    <Compile Include="Dou3akumail\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dou3akumail\Properties\Resources.Designer.cs" />
+    <Compile Include="WaveControl\WaveControl.cs">
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Content Include="Dou3akumail\App.ico" />
+    <Content Include="Prayer\Data\Cities.xml" />
+    <Content Include="WaveControl\dast.jpg" />
+    <Content Include="WaveControl\logo-large.jpg" />
+    <Content Include="WaveControl\wavecontrol.bmp" />
+    <Content Include="full-sun-icon.gif" />
+    <Content Include="HR_HelloRose.gif" />
+    <Content Include="pic3.gif" />
+    <Content Include="Resources\Calendar Day.ico" />
+    <Content Include="Resources\pic3.gif" />
+    <Content Include="sunrise-icon.gif" />
+    <Content Include="sunrise[2].htm" />
+    <Content Include="sunset-icon.gif" />
+    <Content Include="untitled.bmp" />
+    <EmbeddedResource Include="Dou3akumail\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dou3akumail\Properties\Resources.resx" />
+    <EmbeddedResource Include="WaveControl\WaveControl.resx">
+      <DependentUpon>WaveControl.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmConfig.resx">
+      <DependentUpon>frmConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotifyWindow.resx">
+      <DependentUpon>NotifyWindow.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Nour.Athan.Lib\Nour.Athan.lib.csproj">
-      <Project>{284A49A0-4BC1-448E-87F4-C5A4FDEF6C92}</Project>
-      <Name>Nour.Athan.lib</Name>
-    </ProjectReference>
+    <None Include="Dou3akumail\Properties\vssver2.scc" />
+    <None Include="WaveControl\vssver2.scc" />
+    <None Include="Resources\vssver2.scc" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

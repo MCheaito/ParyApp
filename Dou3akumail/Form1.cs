@@ -16,7 +16,7 @@ namespace Dou3akumail
 		private System.Windows.Forms.PictureBox pictureBox1;
 		private System.ComponentModel.IContainer components;
 		private Dou3akumail.WaveControl waveControl1;
-		private AxWMPLib.AxWindowsMediaPlayer axWindowsMediaPlayer1;
+		//private AxWMPLib.AxWindowsMediaPlayer axWindowsMediaPlayer1;
 
 
 		public Form1()
@@ -58,9 +58,7 @@ namespace Dou3akumail
 			System.Resources.ResourceManager resources = new System.Resources.ResourceManager(typeof(Form1));
 			this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
 			this.pictureBox1 = new System.Windows.Forms.PictureBox();
-			this.axWindowsMediaPlayer1 = new AxWMPLib.AxWindowsMediaPlayer();
 			this.waveControl1 = new Dou3akumail.WaveControl();
-			((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer1)).BeginInit();
 			this.SuspendLayout();
 			// 
 			// notifyIcon1
@@ -81,15 +79,6 @@ namespace Dou3akumail
 			this.pictureBox1.TabIndex = 0;
 			this.pictureBox1.TabStop = false;
 			// 
-			// axWindowsMediaPlayer1
-			// 
-			this.axWindowsMediaPlayer1.Enabled = true;
-			this.axWindowsMediaPlayer1.Location = new System.Drawing.Point(200, 352);
-			this.axWindowsMediaPlayer1.Name = "axWindowsMediaPlayer1";
-			this.axWindowsMediaPlayer1.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axWindowsMediaPlayer1.OcxState")));
-			this.axWindowsMediaPlayer1.Size = new System.Drawing.Size(104, 32);
-			this.axWindowsMediaPlayer1.TabIndex = 2;
-			// 
 			// waveControl1
 			// 
 			this.waveControl1.Damping = 1;
@@ -106,12 +95,10 @@ namespace Dou3akumail
 			this.AutoScaleBaseSize = new System.Drawing.Size(5, 13);
 			this.ClientSize = new System.Drawing.Size(384, 550);
 			this.Controls.Add(this.waveControl1);
-			this.Controls.Add(this.axWindowsMediaPlayer1);
 			this.Controls.Add(this.pictureBox1);
 			this.Name = "Form1";
 			this.Text = "Form1";
 			this.Resize += new System.EventHandler(this.Form1_Resize);
-			((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer1)).EndInit();
 			this.ResumeLayout(false);
 
 		}

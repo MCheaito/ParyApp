@@ -8,7 +8,7 @@ using System.IO;
 using System.Threading;
 using System.Globalization;
 using Nour.Athan.Lib;
-using Gen.Config.Manager;
+//using Gen.Config.Manager;
 using System.Reflection;
 
 namespace PrayerApp
@@ -407,7 +407,7 @@ namespace PrayerApp
 
 		private void Form1_Load(object sender, System.EventArgs e)
 		{
-            comboBox1.DataSource = prayer.Cities;
+           // comboBox1.DataSource = prayer.Cities;
 			comboBox1.DisplayMember = "T_Cities.City_name";
             comboBox1.Text = config.Read(mainContainer.ConfigName(enumConfig.CurrentCity));
             txtTimerBySec.Text = config.Read(mainContainer.ConfigName(enumConfig.CurrentDelay));
@@ -468,19 +468,19 @@ namespace PrayerApp
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             DataRowView selectedData = (DataRowView)comboBox1.SelectedItem;
-            City cty = prayer.GetCityByID(Convert.ToInt32(selectedData.Row.ItemArray[0].ToString()));
-            if (cty == null) return;
-            prayer.Init(cty, DateTime.Today.Year, DateTime.Today.Month, DateTime.Today.Day);
+            //City cty = prayer.GetCityByID(Convert.ToInt32(selectedData.Row.ItemArray[0].ToString()));
+            //if (cty == null) return;
+            //prayer.Init(cty, DateTime.Today.Year, DateTime.Today.Month, DateTime.Today.Day);
 
-            txtTimeZone.Text = prayer.TimeZone();
-            latd.Text = prayer.LatitudeD();
-            latm.Text = prayer.LatitudeM();
-            North.Checked = prayer.North();
-            South.Checked = prayer.South();
-            lngd.Text = prayer.LongitudeD();
-            lngm.Text = prayer.LongitudeM();
-            West.Checked = prayer.West();
-            East.Checked = prayer.East();
+            //txtTimeZone.Text = prayer.TimeZone();
+            //latd.Text = prayer.LatitudeD();
+            //latm.Text = prayer.LatitudeM();
+            //North.Checked = prayer.North();
+            //South.Checked = prayer.South();
+            //lngd.Text = prayer.LongitudeD();
+            //lngm.Text = prayer.LongitudeM();
+            //West.Checked = prayer.West();
+            //East.Checked = prayer.East();
         }
 
         private void button1_Click(object sender, EventArgs e)
